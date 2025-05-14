@@ -45,3 +45,7 @@ This project is a batch processing pipeline for a fictional candy store from RIT
 - [x] All tests passing
 - [x] No sensitive data included
 - [x] Only modified necessary files
+
+
+### Contact and Contributions
+Feel free to fork this repository to contribute. Pull requests are welcome. This project was done as a part of Coursework under Prof. Zimeng Lyu at Rochester Institute of Technology.
