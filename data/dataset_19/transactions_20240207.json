@@ -1,0 +1,5108 @@
+[
+  {
+    "transaction_id": 28651673,
+    "customer_id": 22,
+    "timestamp": "2024-02-07T10:06:53.633078",
+    "items": [
+      {
+        "product_id": 18,
+        "product_name": "Metallic Mints Sticks",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 62591380,
+    "customer_id": 21,
+    "timestamp": "2024-02-07T06:27:11.353120",
+    "items": [
+      {
+        "product_id": 15,
+        "product_name": "Swirled Rock Spheres",
+        "qty": 5
+      },
+      {
+        "product_id": 3,
+        "product_name": "Almond Shards Chews Slabs",
+        "qty": 1
+      },
+      {
+        "product_id": 17,
+        "product_name": "Swirled Mints Sticks",
+        "qty": 3
+      },
+      {
+        "product_id": 6,
+        "product_name": "Sea Salt Crackle Squares Bites",
+        "qty": 5
+      },
+      {
+        "product_id": 10,
+        "product_name": "Sea Salt Crackle Enrobed Bites",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 36922709,
+    "customer_id": 21,
+    "timestamp": "2024-02-07T13:23:58.197040",
+    "items": [
+      {
+        "product_id": 26,
+        "product_name": "Edible Glitter Wax Popping Rocks",
+        "qty": 3
+      },
+      {
+        "product_id": 11,
+        "product_name": "Almond Shards Enrobed Slabs",
+        "qty": 2
+      },
+      {
+        "product_id": 9,
+        "product_name": "Almond Shards Enrobed Bites",
+        "qty": 3
+      },
+      {
+        "product_id": 7,
+        "product_name": "Almond Shards Squares Slabs",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 7786859,
+    "customer_id": 20,
+    "timestamp": "2024-02-07T09:46:52.629068",
+    "items": [
+      {
+        "product_id": 32,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": 1
+      },
+      {
+        "product_id": 29,
+        "product_name": "Glow-in-Dark Pop Rocks Popping Rocks",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 99380539,
+    "customer_id": 11,
+    "timestamp": "2024-02-07T20:18:56.491822",
+    "items": [
+      {
+        "product_id": 21,
+        "product_name": "Swirled Drops Sticks",
+        "qty": 4
+      },
+      {
+        "product_id": 3,
+        "product_name": "Almond Shards Chews Slabs",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 56258110,
+    "customer_id": 27,
+    "timestamp": "2024-02-07T03:12:01.826771",
+    "items": [
+      {
+        "product_id": 29,
+        "product_name": "Glow-in-Dark Pop Rocks Popping Rocks",
+        "qty": 5
+      },
+      {
+        "product_id": 18,
+        "product_name": "Metallic Mints Sticks",
+        "qty": 5
+      },
+      {
+        "product_id": 27,
+        "product_name": "Glow-in-Dark Wax Wearables",
+        "qty": 5
+      },
+      {
+        "product_id": 21,
+        "product_name": "Swirled Drops Sticks",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 79057563,
+    "customer_id": 12,
+    "timestamp": "2024-02-07T19:12:40.638375",
+    "items": [
+      {
+        "product_id": 3,
+        "product_name": "Almond Shards Chews Slabs",
+        "qty": 2
+      },
+      {
+        "product_id": 15,
+        "product_name": "Swirled Rock Spheres",
+        "qty": 3
+      },
+      {
+        "product_id": 30,
+        "product_name": "Edible Glitter Pop Rocks Popping Rocks",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 78147543,
+    "customer_id": 25,
+    "timestamp": "2024-02-07T13:08:01.933076",
+    "items": [
+      {
+        "product_id": 13,
+        "product_name": "Swirled Rock Sticks",
+        "qty": 2
+      },
+      {
+        "product_id": 9,
+        "product_name": "Almond Shards Enrobed Bites",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 10704642,
+    "customer_id": 12,
+    "timestamp": "2024-02-07T20:09:43.546802",
+    "items": [
+      {
+        "product_id": 24,
+        "product_name": "Metallic Drops Spheres",
+        "qty": 2
+      },
+      {
+        "product_id": 26,
+        "product_name": "Edible Glitter Wax Popping Rocks",
+        "qty": 4
+      },
+      {
+        "product_id": 2,
+        "product_name": "Sea Salt Crackle Chews Bites",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 19079665,
+    "customer_id": 21,
+    "timestamp": "2024-02-07T20:30:36.624536",
+    "items": [
+      {
+        "product_id": 33,
+        "product_name": "Glow-in-Dark Slime Popping Rocks",
+        "qty": 1
+      },
+      {
+        "product_id": 16,
+        "product_name": "Metallic Rock Spheres",
+        "qty": 3
+      },
+      {
+        "product_id": 30,
+        "product_name": "Edible Glitter Pop Rocks Popping Rocks",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 73280803,
+    "customer_id": 28,
+    "timestamp": "2024-02-07T09:44:50.445523",
+    "items": [
+      {
+        "product_id": 5,
+        "product_name": "Almond Shards Squares Bites",
+        "qty": 3
+      },
+      {
+        "product_id": 11,
+        "product_name": "Almond Shards Enrobed Slabs",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 4130500,
+    "customer_id": 4,
+    "timestamp": "2024-02-07T15:52:15.537564",
+    "items": [
+      {
+        "product_id": 19,
+        "product_name": "Swirled Mints Spheres",
+        "qty": null
+      },
+      {
+        "product_id": 11,
+        "product_name": "Almond Shards Enrobed Slabs",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 22811100,
+    "customer_id": 23,
+    "timestamp": "2024-02-07T07:58:29.625292",
+    "items": [
+      {
+        "product_id": 24,
+        "product_name": "Metallic Drops Spheres",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 86680574,
+    "customer_id": 4,
+    "timestamp": "2024-02-07T07:18:02.209526",
+    "items": [
+      {
+        "product_id": 26,
+        "product_name": "Edible Glitter Wax Popping Rocks",
+        "qty": 5
+      },
+      {
+        "product_id": 24,
+        "product_name": "Metallic Drops Spheres",
+        "qty": 4
+      },
+      {
+        "product_id": 25,
+        "product_name": "Glow-in-Dark Wax Popping Rocks",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 23250543,
+    "customer_id": 11,
+    "timestamp": "2024-02-07T16:40:59.683725",
+    "items": [
+      {
+        "product_id": 5,
+        "product_name": "Almond Shards Squares Bites",
+        "qty": 2
+      },
+      {
+        "product_id": 17,
+        "product_name": "Swirled Mints Sticks",
+        "qty": 4
+      },
+      {
+        "product_id": 28,
+        "product_name": "Edible Glitter Wax Wearables",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 85087039,
+    "customer_id": 9,
+    "timestamp": "2024-02-07T23:11:58.133953",
+    "items": [
+      {
+        "product_id": 10,
+        "product_name": "Sea Salt Crackle Enrobed Bites",
+        "qty": 2
+      },
+      {
+        "product_id": 1,
+        "product_name": "Almond Shards Chews Bites",
+        "qty": 3
+      },
+      {
+        "product_id": 35,
+        "product_name": "Glow-in-Dark Slime Wearables",
+        "qty": 3
+      },
+      {
+        "product_id": 18,
+        "product_name": "Metallic Mints Sticks",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 66589698,
+    "customer_id": 16,
+    "timestamp": "2024-02-07T10:50:04.555794",
+    "items": [
+      {
+        "product_id": 25,
+        "product_name": "Glow-in-Dark Wax Popping Rocks",
+        "qty": 3
+      },
+      {
+        "product_id": 21,
+        "product_name": "Swirled Drops Sticks",
+        "qty": 4
+      },
+      {
+        "product_id": 10,
+        "product_name": "Sea Salt Crackle Enrobed Bites",
+        "qty": 1
+      },
+      {
+        "product_id": 17,
+        "product_name": "Swirled Mints Sticks",
+        "qty": 1
+      },
+      {
+        "product_id": 5,
+        "product_name": "Almond Shards Squares Bites",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 23009872,
+    "customer_id": 16,
+    "timestamp": "2024-02-07T17:51:53.810806",
+    "items": [
+      {
+        "product_id": 16,
+        "product_name": "Metallic Rock Spheres",
+        "qty": null
+      },
+      {
+        "product_id": 26,
+        "product_name": "Edible Glitter Wax Popping Rocks",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 37191879,
+    "customer_id": 7,
+    "timestamp": "2024-02-07T07:35:59.117100",
+    "items": [
+      {
+        "product_id": 16,
+        "product_name": "Metallic Rock Spheres",
+        "qty": 5
+      },
+      {
+        "product_id": 32,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": null
+      },
+      {
+        "product_id": 8,
+        "product_name": "Sea Salt Crackle Squares Slabs",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 84327067,
+    "customer_id": 21,
+    "timestamp": "2024-02-07T00:41:09.630413",
+    "items": [
+      {
+        "product_id": 9,
+        "product_name": "Almond Shards Enrobed Bites",
+        "qty": 1
+      },
+      {
+        "product_id": 18,
+        "product_name": "Metallic Mints Sticks",
+        "qty": 4
+      },
+      {
+        "product_id": 2,
+        "product_name": "Sea Salt Crackle Chews Bites",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 63821846,
+    "customer_id": 27,
+    "timestamp": "2024-02-07T19:53:48.647905",
+    "items": [
+      {
+        "product_id": 18,
+        "product_name": "Metallic Mints Sticks",
+        "qty": 3
+      },
+      {
+        "product_id": 31,
+        "product_name": "Glow-in-Dark Pop Rocks Wearables",
+        "qty": 2
+      },
+      {
+        "product_id": 9,
+        "product_name": "Almond Shards Enrobed Bites",
+        "qty": 4
+      },
+      {
+        "product_id": 16,
+        "product_name": "Metallic Rock Spheres",
+        "qty": 5
+      },
+      {
+        "product_id": 19,
+        "product_name": "Swirled Mints Spheres",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 85293421,
+    "customer_id": 22,
+    "timestamp": "2024-02-07T10:33:34.581865",
+    "items": [
+      {
+        "product_id": 13,
+        "product_name": "Swirled Rock Sticks",
+        "qty": 2
+      },
+      {
+        "product_id": 9,
+        "product_name": "Almond Shards Enrobed Bites",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 83637697,
+    "customer_id": 9,
+    "timestamp": "2024-02-07T05:01:36.990619",
+    "items": [
+      {
+        "product_id": 15,
+        "product_name": "Swirled Rock Spheres",
+        "qty": 1
+      },
+      {
+        "product_id": 30,
+        "product_name": "Edible Glitter Pop Rocks Popping Rocks",
+        "qty": 4
+      },
+      {
+        "product_id": 34,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 4907052,
+    "customer_id": 21,
+    "timestamp": "2024-02-07T19:13:04.776723",
+    "items": [
+      {
+        "product_id": 7,
+        "product_name": "Almond Shards Squares Slabs",
+        "qty": null
+      },
+      {
+        "product_id": 36,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": 1
+      },
+      {
+        "product_id": 21,
+        "product_name": "Swirled Drops Sticks",
+        "qty": 4
+      },
+      {
+        "product_id": 28,
+        "product_name": "Edible Glitter Wax Wearables",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 93103111,
+    "customer_id": 20,
+    "timestamp": "2024-02-07T01:17:24.909861",
+    "items": [
+      {
+        "product_id": 31,
+        "product_name": "Glow-in-Dark Pop Rocks Wearables",
+        "qty": 4
+      },
+      {
+        "product_id": 1,
+        "product_name": "Almond Shards Chews Bites",
+        "qty": 5
+      },
+      {
+        "product_id": 4,
+        "product_name": "Sea Salt Crackle Chews Slabs",
+        "qty": 3
+      },
+      {
+        "product_id": 10,
+        "product_name": "Sea Salt Crackle Enrobed Bites",
+        "qty": 2
+      },
+      {
+        "product_id": 12,
+        "product_name": "Sea Salt Crackle Enrobed Slabs",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 48682331,
+    "customer_id": 8,
+    "timestamp": "2024-02-07T15:52:38.471799",
+    "items": [
+      {
+        "product_id": 5,
+        "product_name": "Almond Shards Squares Bites",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 65915002,
+    "customer_id": 18,
+    "timestamp": "2024-02-07T09:35:47.876289",
+    "items": [
+      {
+        "product_id": 20,
+        "product_name": "Metallic Mints Spheres",
+        "qty": 4
+      },
+      {
+        "product_id": 21,
+        "product_name": "Swirled Drops Sticks",
+        "qty": 3
+      },
+      {
+        "product_id": 23,
+        "product_name": "Swirled Drops Spheres",
+        "qty": 4
+      },
+      {
+        "product_id": 4,
+        "product_name": "Sea Salt Crackle Chews Slabs",
+        "qty": 5
+      },
+      {
+        "product_id": 7,
+        "product_name": "Almond Shards Squares Slabs",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 46626467,
+    "customer_id": 26,
+    "timestamp": "2024-02-07T04:47:34.990228",
+    "items": [
+      {
+        "product_id": 8,
+        "product_name": "Sea Salt Crackle Squares Slabs",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 27337970,
+    "customer_id": 13,
+    "timestamp": "2024-02-07T03:30:13.437268",
+    "items": [
+      {
+        "product_id": 11,
+        "product_name": "Almond Shards Enrobed Slabs",
+        "qty": 4
+      },
+      {
+        "product_id": 24,
+        "product_name": "Metallic Drops Spheres",
+        "qty": 2
+      },
+      {
+        "product_id": 3,
+        "product_name": "Almond Shards Chews Slabs",
+        "qty": null
+      },
+      {
+        "product_id": 14,
+        "product_name": "Metallic Rock Sticks",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 90769230,
+    "customer_id": 6,
+    "timestamp": "2024-02-07T04:09:05.121318",
+    "items": [
+      {
+        "product_id": 3,
+        "product_name": "Almond Shards Chews Slabs",
+        "qty": 5
+      },
+      {
+        "product_id": 23,
+        "product_name": "Swirled Drops Spheres",
+        "qty": 3
+      },
+      {
+        "product_id": 35,
+        "product_name": "Glow-in-Dark Slime Wearables",
+        "qty": 5
+      },
+      {
+        "product_id": 6,
+        "product_name": "Sea Salt Crackle Squares Bites",
+        "qty": 4
+      },
+      {
+        "product_id": 9,
+        "product_name": "Almond Shards Enrobed Bites",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 69513331,
+    "customer_id": 11,
+    "timestamp": "2024-02-07T22:47:13.788311",
+    "items": [
+      {
+        "product_id": 18,
+        "product_name": "Metallic Mints Sticks",
+        "qty": 3
+      },
+      {
+        "product_id": 3,
+        "product_name": "Almond Shards Chews Slabs",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 66050741,
+    "customer_id": 22,
+    "timestamp": "2024-02-07T17:45:04.378822",
+    "items": [
+      {
+        "product_id": 35,
+        "product_name": "Glow-in-Dark Slime Wearables",
+        "qty": 1
+      },
+      {
+        "product_id": 24,
+        "product_name": "Metallic Drops Spheres",
+        "qty": 5
+      },
+      {
+        "product_id": 22,
+        "product_name": "Metallic Drops Sticks",
+        "qty": 3
+      },
+      {
+        "product_id": 21,
+        "product_name": "Swirled Drops Sticks",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 31168479,
+    "customer_id": 22,
+    "timestamp": "2024-02-07T15:24:08.365167",
+    "items": [
+      {
+        "product_id": 34,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": 2
+      },
+      {
+        "product_id": 18,
+        "product_name": "Metallic Mints Sticks",
+        "qty": 4
+      },
+      {
+        "product_id": 33,
+        "product_name": "Glow-in-Dark Slime Popping Rocks",
+        "qty": 4
+      },
+      {
+        "product_id": 31,
+        "product_name": "Glow-in-Dark Pop Rocks Wearables",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 89492536,
+    "customer_id": 27,
+    "timestamp": "2024-02-07T04:55:36.686254",
+    "items": [
+      {
+        "product_id": 27,
+        "product_name": "Glow-in-Dark Wax Wearables",
+        "qty": 1
+      },
+      {
+        "product_id": 2,
+        "product_name": "Sea Salt Crackle Chews Bites",
+        "qty": null
+      },
+      {
+        "product_id": 13,
+        "product_name": "Swirled Rock Sticks",
+        "qty": 2
+      },
+      {
+        "product_id": 3,
+        "product_name": "Almond Shards Chews Slabs",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 58463189,
+    "customer_id": 14,
+    "timestamp": "2024-02-07T20:40:54.758029",
+    "items": [
+      {
+        "product_id": 30,
+        "product_name": "Edible Glitter Pop Rocks Popping Rocks",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 64215485,
+    "customer_id": 2,
+    "timestamp": "2024-02-07T15:50:59.297279",
+    "items": [
+      {
+        "product_id": 9,
+        "product_name": "Almond Shards Enrobed Bites",
+        "qty": 5
+      },
+      {
+        "product_id": 16,
+        "product_name": "Metallic Rock Spheres",
+        "qty": 2
+      },
+      {
+        "product_id": 4,
+        "product_name": "Sea Salt Crackle Chews Slabs",
+        "qty": 3
+      },
+      {
+        "product_id": 17,
+        "product_name": "Swirled Mints Sticks",
+        "qty": 5
+      },
+      {
+        "product_id": 14,
+        "product_name": "Metallic Rock Sticks",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 2169778,
+    "customer_id": 7,
+    "timestamp": "2024-02-07T20:42:03.248635",
+    "items": [
+      {
+        "product_id": 30,
+        "product_name": "Edible Glitter Pop Rocks Popping Rocks",
+        "qty": null
+      },
+      {
+        "product_id": 12,
+        "product_name": "Sea Salt Crackle Enrobed Slabs",
+        "qty": 5
+      },
+      {
+        "product_id": 2,
+        "product_name": "Sea Salt Crackle Chews Bites",
+        "qty": 3
+      },
+      {
+        "product_id": 31,
+        "product_name": "Glow-in-Dark Pop Rocks Wearables",
+        "qty": 4
+      },
+      {
+        "product_id": 29,
+        "product_name": "Glow-in-Dark Pop Rocks Popping Rocks",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 15739503,
+    "customer_id": 30,
+    "timestamp": "2024-02-07T12:27:20.768197",
+    "items": [
+      {
+        "product_id": 6,
+        "product_name": "Sea Salt Crackle Squares Bites",
+        "qty": 2
+      },
+      {
+        "product_id": 22,
+        "product_name": "Metallic Drops Sticks",
+        "qty": 2
+      },
+      {
+        "product_id": 2,
+        "product_name": "Sea Salt Crackle Chews Bites",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 43961160,
+    "customer_id": 10,
+    "timestamp": "2024-02-07T00:50:05.716338",
+    "items": [
+      {
+        "product_id": 9,
+        "product_name": "Almond Shards Enrobed Bites",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 16754828,
+    "customer_id": 17,
+    "timestamp": "2024-02-07T21:51:40.190768",
+    "items": [
+      {
+        "product_id": 18,
+        "product_name": "Metallic Mints Sticks",
+        "qty": 3
+      },
+      {
+        "product_id": 7,
+        "product_name": "Almond Shards Squares Slabs",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 6665706,
+    "customer_id": 16,
+    "timestamp": "2024-02-07T02:19:28.428088",
+    "items": [
+      {
+        "product_id": 1,
+        "product_name": "Almond Shards Chews Bites",
+        "qty": 2
+      },
+      {
+        "product_id": 14,
+        "product_name": "Metallic Rock Sticks",
+        "qty": 5
+      },
+      {
+        "product_id": 30,
+        "product_name": "Edible Glitter Pop Rocks Popping Rocks",
+        "qty": 4
+      },
+      {
+        "product_id": 9,
+        "product_name": "Almond Shards Enrobed Bites",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 4684766,
+    "customer_id": 3,
+    "timestamp": "2024-02-07T15:02:03.921990",
+    "items": [
+      {
+        "product_id": 1,
+        "product_name": "Almond Shards Chews Bites",
+        "qty": 5
+      },
+      {
+        "product_id": 20,
+        "product_name": "Metallic Mints Spheres",
+        "qty": 1
+      },
+      {
+        "product_id": 2,
+        "product_name": "Sea Salt Crackle Chews Bites",
+        "qty": null
+      },
+      {
+        "product_id": 32,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 88507024,
+    "customer_id": 3,
+    "timestamp": "2024-02-07T15:52:13.166154",
+    "items": [
+      {
+        "product_id": 28,
+        "product_name": "Edible Glitter Wax Wearables",
+        "qty": 5
+      },
+      {
+        "product_id": 12,
+        "product_name": "Sea Salt Crackle Enrobed Slabs",
+        "qty": 1
+      },
+      {
+        "product_id": 25,
+        "product_name": "Glow-in-Dark Wax Popping Rocks",
+        "qty": 3
+      },
+      {
+        "product_id": 3,
+        "product_name": "Almond Shards Chews Slabs",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 32603772,
+    "customer_id": 20,
+    "timestamp": "2024-02-07T11:02:48.393581",
+    "items": [
+      {
+        "product_id": 32,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": 3
+      },
+      {
+        "product_id": 28,
+        "product_name": "Edible Glitter Wax Wearables",
+        "qty": 3
+      },
+      {
+        "product_id": 25,
+        "product_name": "Glow-in-Dark Wax Popping Rocks",
+        "qty": 4
+      },
+      {
+        "product_id": 6,
+        "product_name": "Sea Salt Crackle Squares Bites",
+        "qty": 1
+      },
+      {
+        "product_id": 15,
+        "product_name": "Swirled Rock Spheres",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 36686787,
+    "customer_id": 14,
+    "timestamp": "2024-02-07T02:01:31.100517",
+    "items": [
+      {
+        "product_id": 25,
+        "product_name": "Glow-in-Dark Wax Popping Rocks",
+        "qty": 4
+      },
+      {
+        "product_id": 28,
+        "product_name": "Edible Glitter Wax Wearables",
+        "qty": 5
+      },
+      {
+        "product_id": 36,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 82015972,
+    "customer_id": 7,
+    "timestamp": "2024-02-07T17:55:26.159054",
+    "items": [
+      {
+        "product_id": 22,
+        "product_name": "Metallic Drops Sticks",
+        "qty": null
+      },
+      {
+        "product_id": 9,
+        "product_name": "Almond Shards Enrobed Bites",
+        "qty": 5
+      },
+      {
+        "product_id": 31,
+        "product_name": "Glow-in-Dark Pop Rocks Wearables",
+        "qty": 2
+      },
+      {
+        "product_id": 16,
+        "product_name": "Metallic Rock Spheres",
+        "qty": 4
+      },
+      {
+        "product_id": 23,
+        "product_name": "Swirled Drops Spheres",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 18319683,
+    "customer_id": 3,
+    "timestamp": "2024-02-07T03:52:41.959203",
+    "items": [
+      {
+        "product_id": 1,
+        "product_name": "Almond Shards Chews Bites",
+        "qty": 5
+      },
+      {
+        "product_id": 15,
+        "product_name": "Swirled Rock Spheres",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 12893835,
+    "customer_id": 22,
+    "timestamp": "2024-02-07T12:03:28.269740",
+    "items": [
+      {
+        "product_id": 31,
+        "product_name": "Glow-in-Dark Pop Rocks Wearables",
+        "qty": 2
+      },
+      {
+        "product_id": 15,
+        "product_name": "Swirled Rock Spheres",
+        "qty": 3
+      },
+      {
+        "product_id": 9,
+        "product_name": "Almond Shards Enrobed Bites",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 95123024,
+    "customer_id": 4,
+    "timestamp": "2024-02-07T04:46:01.061610",
+    "items": [
+      {
+        "product_id": 34,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": 4
+      },
+      {
+        "product_id": 5,
+        "product_name": "Almond Shards Squares Bites",
+        "qty": 2
+      },
+      {
+        "product_id": 1,
+        "product_name": "Almond Shards Chews Bites",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 58924065,
+    "customer_id": 23,
+    "timestamp": "2024-02-07T12:04:01.955188",
+    "items": [
+      {
+        "product_id": 29,
+        "product_name": "Glow-in-Dark Pop Rocks Popping Rocks",
+        "qty": 2
+      },
+      {
+        "product_id": 18,
+        "product_name": "Metallic Mints Sticks",
+        "qty": 3
+      },
+      {
+        "product_id": 21,
+        "product_name": "Swirled Drops Sticks",
+        "qty": 1
+      },
+      {
+        "product_id": 8,
+        "product_name": "Sea Salt Crackle Squares Slabs",
+        "qty": 5
+      },
+      {
+        "product_id": 23,
+        "product_name": "Swirled Drops Spheres",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 95862857,
+    "customer_id": 11,
+    "timestamp": "2024-02-07T02:06:31.986670",
+    "items": [
+      {
+        "product_id": 25,
+        "product_name": "Glow-in-Dark Wax Popping Rocks",
+        "qty": 1
+      },
+      {
+        "product_id": 21,
+        "product_name": "Swirled Drops Sticks",
+        "qty": 1
+      },
+      {
+        "product_id": 17,
+        "product_name": "Swirled Mints Sticks",
+        "qty": 3
+      },
+      {
+        "product_id": 2,
+        "product_name": "Sea Salt Crackle Chews Bites",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 36272520,
+    "customer_id": 14,
+    "timestamp": "2024-02-07T14:44:33.532823",
+    "items": [
+      {
+        "product_id": 5,
+        "product_name": "Almond Shards Squares Bites",
+        "qty": 2
+      },
+      {
+        "product_id": 30,
+        "product_name": "Edible Glitter Pop Rocks Popping Rocks",
+        "qty": 2
+      },
+      {
+        "product_id": 11,
+        "product_name": "Almond Shards Enrobed Slabs",
+        "qty": 3
+      },
+      {
+        "product_id": 24,
+        "product_name": "Metallic Drops Spheres",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 67740397,
+    "customer_id": 28,
+    "timestamp": "2024-02-07T01:31:44.544511",
+    "items": [
+      {
+        "product_id": 8,
+        "product_name": "Sea Salt Crackle Squares Slabs",
+        "qty": 1
+      },
+      {
+        "product_id": 7,
+        "product_name": "Almond Shards Squares Slabs",
+        "qty": 5
+      },
+      {
+        "product_id": 21,
+        "product_name": "Swirled Drops Sticks",
+        "qty": 3
+      },
+      {
+        "product_id": 12,
+        "product_name": "Sea Salt Crackle Enrobed Slabs",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 25295616,
+    "customer_id": 25,
+    "timestamp": "2024-02-07T19:01:35.372599",
+    "items": [
+      {
+        "product_id": 22,
+        "product_name": "Metallic Drops Sticks",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 88260623,
+    "customer_id": 23,
+    "timestamp": "2024-02-07T23:32:17.752570",
+    "items": [
+      {
+        "product_id": 17,
+        "product_name": "Swirled Mints Sticks",
+        "qty": 1
+      },
+      {
+        "product_id": 10,
+        "product_name": "Sea Salt Crackle Enrobed Bites",
+        "qty": 3
+      },
+      {
+        "product_id": 8,
+        "product_name": "Sea Salt Crackle Squares Slabs",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 76743597,
+    "customer_id": 18,
+    "timestamp": "2024-02-07T16:24:32.096527",
+    "items": [
+      {
+        "product_id": 18,
+        "product_name": "Metallic Mints Sticks",
+        "qty": 2
+      },
+      {
+        "product_id": 15,
+        "product_name": "Swirled Rock Spheres",
+        "qty": 5
+      },
+      {
+        "product_id": 11,
+        "product_name": "Almond Shards Enrobed Slabs",
+        "qty": 3
+      },
+      {
+        "product_id": 28,
+        "product_name": "Edible Glitter Wax Wearables",
+        "qty": 1
+      },
+      {
+        "product_id": 25,
+        "product_name": "Glow-in-Dark Wax Popping Rocks",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 33648710,
+    "customer_id": 22,
+    "timestamp": "2024-02-07T09:02:15.478433",
+    "items": [
+      {
+        "product_id": 12,
+        "product_name": "Sea Salt Crackle Enrobed Slabs",
+        "qty": 2
+      },
+      {
+        "product_id": 4,
+        "product_name": "Sea Salt Crackle Chews Slabs",
+        "qty": 5
+      },
+      {
+        "product_id": 36,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 21249631,
+    "customer_id": 19,
+    "timestamp": "2024-02-07T15:26:41.928846",
+    "items": [
+      {
+        "product_id": 1,
+        "product_name": "Almond Shards Chews Bites",
+        "qty": 5
+      },
+      {
+        "product_id": 26,
+        "product_name": "Edible Glitter Wax Popping Rocks",
+        "qty": 5
+      },
+      {
+        "product_id": 23,
+        "product_name": "Swirled Drops Spheres",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 78273508,
+    "customer_id": 14,
+    "timestamp": "2024-02-07T20:47:22.186659",
+    "items": [
+      {
+        "product_id": 23,
+        "product_name": "Swirled Drops Spheres",
+        "qty": 5
+      },
+      {
+        "product_id": 26,
+        "product_name": "Edible Glitter Wax Popping Rocks",
+        "qty": 1
+      },
+      {
+        "product_id": 31,
+        "product_name": "Glow-in-Dark Pop Rocks Wearables",
+        "qty": 4
+      },
+      {
+        "product_id": 33,
+        "product_name": "Glow-in-Dark Slime Popping Rocks",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 26231292,
+    "customer_id": 23,
+    "timestamp": "2024-02-07T00:55:44.201339",
+    "items": [
+      {
+        "product_id": 31,
+        "product_name": "Glow-in-Dark Pop Rocks Wearables",
+        "qty": 1
+      },
+      {
+        "product_id": 15,
+        "product_name": "Swirled Rock Spheres",
+        "qty": 2
+      },
+      {
+        "product_id": 23,
+        "product_name": "Swirled Drops Spheres",
+        "qty": 5
+      },
+      {
+        "product_id": 19,
+        "product_name": "Swirled Mints Spheres",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 88632949,
+    "customer_id": 4,
+    "timestamp": "2024-02-07T15:15:49.085414",
+    "items": [
+      {
+        "product_id": 19,
+        "product_name": "Swirled Mints Spheres",
+        "qty": 3
+      },
+      {
+        "product_id": 33,
+        "product_name": "Glow-in-Dark Slime Popping Rocks",
+        "qty": 3
+      },
+      {
+        "product_id": 15,
+        "product_name": "Swirled Rock Spheres",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 3233929,
+    "customer_id": 26,
+    "timestamp": "2024-02-07T23:10:12.429579",
+    "items": [
+      {
+        "product_id": 8,
+        "product_name": "Sea Salt Crackle Squares Slabs",
+        "qty": 2
+      },
+      {
+        "product_id": 11,
+        "product_name": "Almond Shards Enrobed Slabs",
+        "qty": 2
+      },
+      {
+        "product_id": 35,
+        "product_name": "Glow-in-Dark Slime Wearables",
+        "qty": 3
+      },
+      {
+        "product_id": 12,
+        "product_name": "Sea Salt Crackle Enrobed Slabs",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 26031961,
+    "customer_id": 5,
+    "timestamp": "2024-02-07T18:40:44.068708",
+    "items": [
+      {
+        "product_id": 3,
+        "product_name": "Almond Shards Chews Slabs",
+        "qty": 2
+      },
+      {
+        "product_id": 33,
+        "product_name": "Glow-in-Dark Slime Popping Rocks",
+        "qty": 1
+      },
+      {
+        "product_id": 36,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": 5
+      },
+      {
+        "product_id": 22,
+        "product_name": "Metallic Drops Sticks",
+        "qty": 2
+      },
+      {
+        "product_id": 26,
+        "product_name": "Edible Glitter Wax Popping Rocks",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 8352620,
+    "customer_id": 23,
+    "timestamp": "2024-02-07T17:55:13.304935",
+    "items": [
+      {
+        "product_id": 33,
+        "product_name": "Glow-in-Dark Slime Popping Rocks",
+        "qty": 4
+      },
+      {
+        "product_id": 27,
+        "product_name": "Glow-in-Dark Wax Wearables",
+        "qty": 3
+      },
+      {
+        "product_id": 34,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 59957606,
+    "customer_id": 15,
+    "timestamp": "2024-02-07T14:31:30.567167",
+    "items": [
+      {
+        "product_id": 10,
+        "product_name": "Sea Salt Crackle Enrobed Bites",
+        "qty": 4
+      },
+      {
+        "product_id": 2,
+        "product_name": "Sea Salt Crackle Chews Bites",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 46771216,
+    "customer_id": 20,
+    "timestamp": "2024-02-07T02:42:29.402790",
+    "items": [
+      {
+        "product_id": 15,
+        "product_name": "Swirled Rock Spheres",
+        "qty": 1
+      },
+      {
+        "product_id": 29,
+        "product_name": "Glow-in-Dark Pop Rocks Popping Rocks",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 25235928,
+    "customer_id": 27,
+    "timestamp": "2024-02-07T11:16:34.681023",
+    "items": [
+      {
+        "product_id": 21,
+        "product_name": "Swirled Drops Sticks",
+        "qty": 5
+      },
+      {
+        "product_id": 30,
+        "product_name": "Edible Glitter Pop Rocks Popping Rocks",
+        "qty": 1
+      },
+      {
+        "product_id": 29,
+        "product_name": "Glow-in-Dark Pop Rocks Popping Rocks",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 30247025,
+    "customer_id": 5,
+    "timestamp": "2024-02-07T22:40:23.032745",
+    "items": [
+      {
+        "product_id": 11,
+        "product_name": "Almond Shards Enrobed Slabs",
+        "qty": 4
+      },
+      {
+        "product_id": 27,
+        "product_name": "Glow-in-Dark Wax Wearables",
+        "qty": 4
+      },
+      {
+        "product_id": 21,
+        "product_name": "Swirled Drops Sticks",
+        "qty": 4
+      },
+      {
+        "product_id": 30,
+        "product_name": "Edible Glitter Pop Rocks Popping Rocks",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 34477059,
+    "customer_id": 6,
+    "timestamp": "2024-02-07T10:20:47.033769",
+    "items": [
+      {
+        "product_id": 2,
+        "product_name": "Sea Salt Crackle Chews Bites",
+        "qty": 1
+      },
+      {
+        "product_id": 10,
+        "product_name": "Sea Salt Crackle Enrobed Bites",
+        "qty": null
+      },
+      {
+        "product_id": 17,
+        "product_name": "Swirled Mints Sticks",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 49595334,
+    "customer_id": 25,
+    "timestamp": "2024-02-07T00:55:30.620819",
+    "items": [
+      {
+        "product_id": 22,
+        "product_name": "Metallic Drops Sticks",
+        "qty": 2
+      },
+      {
+        "product_id": 20,
+        "product_name": "Metallic Mints Spheres",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 59816027,
+    "customer_id": 19,
+    "timestamp": "2024-02-07T12:53:57.679868",
+    "items": [
+      {
+        "product_id": 5,
+        "product_name": "Almond Shards Squares Bites",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 64528837,
+    "customer_id": 3,
+    "timestamp": "2024-02-07T05:20:41.805899",
+    "items": [
+      {
+        "product_id": 15,
+        "product_name": "Swirled Rock Spheres",
+        "qty": 4
+      },
+      {
+        "product_id": 35,
+        "product_name": "Glow-in-Dark Slime Wearables",
+        "qty": 5
+      },
+      {
+        "product_id": 25,
+        "product_name": "Glow-in-Dark Wax Popping Rocks",
+        "qty": null
+      },
+      {
+        "product_id": 17,
+        "product_name": "Swirled Mints Sticks",
+        "qty": 3
+      },
+      {
+        "product_id": 1,
+        "product_name": "Almond Shards Chews Bites",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 46162204,
+    "customer_id": 27,
+    "timestamp": "2024-02-07T02:25:00.997305",
+    "items": [
+      {
+        "product_id": 9,
+        "product_name": "Almond Shards Enrobed Bites",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 22390448,
+    "customer_id": 21,
+    "timestamp": "2024-02-07T06:56:49.249239",
+    "items": [
+      {
+        "product_id": 21,
+        "product_name": "Swirled Drops Sticks",
+        "qty": 5
+      },
+      {
+        "product_id": 20,
+        "product_name": "Metallic Mints Spheres",
+        "qty": 1
+      },
+      {
+        "product_id": 17,
+        "product_name": "Swirled Mints Sticks",
+        "qty": 4
+      },
+      {
+        "product_id": 18,
+        "product_name": "Metallic Mints Sticks",
+        "qty": 5
+      },
+      {
+        "product_id": 14,
+        "product_name": "Metallic Rock Sticks",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 6118311,
+    "customer_id": 5,
+    "timestamp": "2024-02-07T19:40:01.785965",
+    "items": [
+      {
+        "product_id": 19,
+        "product_name": "Swirled Mints Spheres",
+        "qty": 4
+      },
+      {
+        "product_id": 31,
+        "product_name": "Glow-in-Dark Pop Rocks Wearables",
+        "qty": 2
+      },
+      {
+        "product_id": 24,
+        "product_name": "Metallic Drops Spheres",
+        "qty": 4
+      },
+      {
+        "product_id": 35,
+        "product_name": "Glow-in-Dark Slime Wearables",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 96380865,
+    "customer_id": 29,
+    "timestamp": "2024-02-07T17:26:20.394031",
+    "items": [
+      {
+        "product_id": 1,
+        "product_name": "Almond Shards Chews Bites",
+        "qty": 4
+      },
+      {
+        "product_id": 36,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": 4
+      },
+      {
+        "product_id": 19,
+        "product_name": "Swirled Mints Spheres",
+        "qty": null
+      },
+      {
+        "product_id": 3,
+        "product_name": "Almond Shards Chews Slabs",
+        "qty": null
+      },
+      {
+        "product_id": 10,
+        "product_name": "Sea Salt Crackle Enrobed Bites",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 84873239,
+    "customer_id": 18,
+    "timestamp": "2024-02-07T18:22:30.053809",
+    "items": [
+      {
+        "product_id": 18,
+        "product_name": "Metallic Mints Sticks",
+        "qty": 1
+      },
+      {
+        "product_id": 8,
+        "product_name": "Sea Salt Crackle Squares Slabs",
+        "qty": 2
+      },
+      {
+        "product_id": 31,
+        "product_name": "Glow-in-Dark Pop Rocks Wearables",
+        "qty": 2
+      },
+      {
+        "product_id": 11,
+        "product_name": "Almond Shards Enrobed Slabs",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 87283905,
+    "customer_id": 25,
+    "timestamp": "2024-02-07T18:37:01.166616",
+    "items": [
+      {
+        "product_id": 4,
+        "product_name": "Sea Salt Crackle Chews Slabs",
+        "qty": 3
+      },
+      {
+        "product_id": 23,
+        "product_name": "Swirled Drops Spheres",
+        "qty": 1
+      },
+      {
+        "product_id": 2,
+        "product_name": "Sea Salt Crackle Chews Bites",
+        "qty": 5
+      },
+      {
+        "product_id": 11,
+        "product_name": "Almond Shards Enrobed Slabs",
+        "qty": 1
+      },
+      {
+        "product_id": 31,
+        "product_name": "Glow-in-Dark Pop Rocks Wearables",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 91531920,
+    "customer_id": 10,
+    "timestamp": "2024-02-07T21:58:47.584754",
+    "items": [
+      {
+        "product_id": 31,
+        "product_name": "Glow-in-Dark Pop Rocks Wearables",
+        "qty": 5
+      },
+      {
+        "product_id": 26,
+        "product_name": "Edible Glitter Wax Popping Rocks",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 3358609,
+    "customer_id": 12,
+    "timestamp": "2024-02-07T19:00:55.902995",
+    "items": [
+      {
+        "product_id": 12,
+        "product_name": "Sea Salt Crackle Enrobed Slabs",
+        "qty": 1
+      },
+      {
+        "product_id": 35,
+        "product_name": "Glow-in-Dark Slime Wearables",
+        "qty": 1
+      },
+      {
+        "product_id": 13,
+        "product_name": "Swirled Rock Sticks",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 17688530,
+    "customer_id": 15,
+    "timestamp": "2024-02-07T15:38:20.551476",
+    "items": [
+      {
+        "product_id": 24,
+        "product_name": "Metallic Drops Spheres",
+        "qty": null
+      },
+      {
+        "product_id": 32,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": 4
+      },
+      {
+        "product_id": 28,
+        "product_name": "Edible Glitter Wax Wearables",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 92139544,
+    "customer_id": 22,
+    "timestamp": "2024-02-07T23:20:35.421235",
+    "items": [
+      {
+        "product_id": 28,
+        "product_name": "Edible Glitter Wax Wearables",
+        "qty": 5
+      },
+      {
+        "product_id": 8,
+        "product_name": "Sea Salt Crackle Squares Slabs",
+        "qty": 2
+      },
+      {
+        "product_id": 12,
+        "product_name": "Sea Salt Crackle Enrobed Slabs",
+        "qty": 4
+      },
+      {
+        "product_id": 2,
+        "product_name": "Sea Salt Crackle Chews Bites",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 16470811,
+    "customer_id": 19,
+    "timestamp": "2024-02-07T05:40:35.316936",
+    "items": [
+      {
+        "product_id": 15,
+        "product_name": "Swirled Rock Spheres",
+        "qty": 5
+      },
+      {
+        "product_id": 28,
+        "product_name": "Edible Glitter Wax Wearables",
+        "qty": 5
+      },
+      {
+        "product_id": 1,
+        "product_name": "Almond Shards Chews Bites",
+        "qty": null
+      },
+      {
+        "product_id": 13,
+        "product_name": "Swirled Rock Sticks",
+        "qty": null
+      },
+      {
+        "product_id": 11,
+        "product_name": "Almond Shards Enrobed Slabs",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 5730166,
+    "customer_id": 5,
+    "timestamp": "2024-02-07T11:57:32.688802",
+    "items": [
+      {
+        "product_id": 31,
+        "product_name": "Glow-in-Dark Pop Rocks Wearables",
+        "qty": 1
+      },
+      {
+        "product_id": 12,
+        "product_name": "Sea Salt Crackle Enrobed Slabs",
+        "qty": 1
+      },
+      {
+        "product_id": 8,
+        "product_name": "Sea Salt Crackle Squares Slabs",
+        "qty": 2
+      },
+      {
+        "product_id": 23,
+        "product_name": "Swirled Drops Spheres",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 54251792,
+    "customer_id": 30,
+    "timestamp": "2024-02-07T04:52:33.186000",
+    "items": [
+      {
+        "product_id": 7,
+        "product_name": "Almond Shards Squares Slabs",
+        "qty": 3
+      },
+      {
+        "product_id": 33,
+        "product_name": "Glow-in-Dark Slime Popping Rocks",
+        "qty": 3
+      },
+      {
+        "product_id": 34,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": 5
+      },
+      {
+        "product_id": 22,
+        "product_name": "Metallic Drops Sticks",
+        "qty": 1
+      },
+      {
+        "product_id": 1,
+        "product_name": "Almond Shards Chews Bites",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 78679202,
+    "customer_id": 16,
+    "timestamp": "2024-02-07T20:27:24.421839",
+    "items": [
+      {
+        "product_id": 36,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": 2
+      },
+      {
+        "product_id": 15,
+        "product_name": "Swirled Rock Spheres",
+        "qty": 1
+      },
+      {
+        "product_id": 21,
+        "product_name": "Swirled Drops Sticks",
+        "qty": 4
+      },
+      {
+        "product_id": 19,
+        "product_name": "Swirled Mints Spheres",
+        "qty": 4
+      },
+      {
+        "product_id": 8,
+        "product_name": "Sea Salt Crackle Squares Slabs",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 75333356,
+    "customer_id": 28,
+    "timestamp": "2024-02-07T19:53:23.676543",
+    "items": [
+      {
+        "product_id": 16,
+        "product_name": "Metallic Rock Spheres",
+        "qty": 1
+      },
+      {
+        "product_id": 9,
+        "product_name": "Almond Shards Enrobed Bites",
+        "qty": 3
+      },
+      {
+        "product_id": 36,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": 4
+      },
+      {
+        "product_id": 20,
+        "product_name": "Metallic Mints Spheres",
+        "qty": 3
+      },
+      {
+        "product_id": 23,
+        "product_name": "Swirled Drops Spheres",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 71776091,
+    "customer_id": 24,
+    "timestamp": "2024-02-07T04:18:53.474319",
+    "items": [
+      {
+        "product_id": 12,
+        "product_name": "Sea Salt Crackle Enrobed Slabs",
+        "qty": 4
+      },
+      {
+        "product_id": 8,
+        "product_name": "Sea Salt Crackle Squares Slabs",
+        "qty": 2
+      },
+      {
+        "product_id": 24,
+        "product_name": "Metallic Drops Spheres",
+        "qty": 1
+      },
+      {
+        "product_id": 28,
+        "product_name": "Edible Glitter Wax Wearables",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 47035272,
+    "customer_id": 30,
+    "timestamp": "2024-02-07T05:49:51.429593",
+    "items": [
+      {
+        "product_id": 12,
+        "product_name": "Sea Salt Crackle Enrobed Slabs",
+        "qty": 2
+      },
+      {
+        "product_id": 24,
+        "product_name": "Metallic Drops Spheres",
+        "qty": null
+      },
+      {
+        "product_id": 4,
+        "product_name": "Sea Salt Crackle Chews Slabs",
+        "qty": 3
+      },
+      {
+        "product_id": 13,
+        "product_name": "Swirled Rock Sticks",
+        "qty": 4
+      },
+      {
+        "product_id": 28,
+        "product_name": "Edible Glitter Wax Wearables",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 78216162,
+    "customer_id": 1,
+    "timestamp": "2024-02-07T08:53:42.699268",
+    "items": [
+      {
+        "product_id": 14,
+        "product_name": "Metallic Rock Sticks",
+        "qty": 1
+      },
+      {
+        "product_id": 23,
+        "product_name": "Swirled Drops Spheres",
+        "qty": 5
+      },
+      {
+        "product_id": 15,
+        "product_name": "Swirled Rock Spheres",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 52724814,
+    "customer_id": 9,
+    "timestamp": "2024-02-07T11:14:32.045419",
+    "items": [
+      {
+        "product_id": 16,
+        "product_name": "Metallic Rock Spheres",
+        "qty": 4
+      },
+      {
+        "product_id": 2,
+        "product_name": "Sea Salt Crackle Chews Bites",
+        "qty": 3
+      },
+      {
+        "product_id": 28,
+        "product_name": "Edible Glitter Wax Wearables",
+        "qty": 3
+      },
+      {
+        "product_id": 12,
+        "product_name": "Sea Salt Crackle Enrobed Slabs",
+        "qty": 1
+      },
+      {
+        "product_id": 18,
+        "product_name": "Metallic Mints Sticks",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 48819571,
+    "customer_id": 28,
+    "timestamp": "2024-02-07T09:51:58.935777",
+    "items": [
+      {
+        "product_id": 25,
+        "product_name": "Glow-in-Dark Wax Popping Rocks",
+        "qty": 3
+      },
+      {
+        "product_id": 24,
+        "product_name": "Metallic Drops Spheres",
+        "qty": 5
+      },
+      {
+        "product_id": 34,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": 5
+      },
+      {
+        "product_id": 20,
+        "product_name": "Metallic Mints Spheres",
+        "qty": 3
+      },
+      {
+        "product_id": 15,
+        "product_name": "Swirled Rock Spheres",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 33360872,
+    "customer_id": 14,
+    "timestamp": "2024-02-07T17:23:05.229571",
+    "items": [
+      {
+        "product_id": 30,
+        "product_name": "Edible Glitter Pop Rocks Popping Rocks",
+        "qty": 3
+      },
+      {
+        "product_id": 19,
+        "product_name": "Swirled Mints Spheres",
+        "qty": 5
+      },
+      {
+        "product_id": 28,
+        "product_name": "Edible Glitter Wax Wearables",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 91662140,
+    "customer_id": 20,
+    "timestamp": "2024-02-07T16:02:02.832865",
+    "items": [
+      {
+        "product_id": 31,
+        "product_name": "Glow-in-Dark Pop Rocks Wearables",
+        "qty": 1
+      },
+      {
+        "product_id": 35,
+        "product_name": "Glow-in-Dark Slime Wearables",
+        "qty": 4
+      },
+      {
+        "product_id": 26,
+        "product_name": "Edible Glitter Wax Popping Rocks",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 10397628,
+    "customer_id": 26,
+    "timestamp": "2024-02-07T00:55:32.106463",
+    "items": [
+      {
+        "product_id": 26,
+        "product_name": "Edible Glitter Wax Popping Rocks",
+        "qty": 3
+      },
+      {
+        "product_id": 5,
+        "product_name": "Almond Shards Squares Bites",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 46255931,
+    "customer_id": 15,
+    "timestamp": "2024-02-07T05:03:51.909318",
+    "items": [
+      {
+        "product_id": 12,
+        "product_name": "Sea Salt Crackle Enrobed Slabs",
+        "qty": 3
+      },
+      {
+        "product_id": 34,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": 5
+      },
+      {
+        "product_id": 7,
+        "product_name": "Almond Shards Squares Slabs",
+        "qty": 4
+      },
+      {
+        "product_id": 17,
+        "product_name": "Swirled Mints Sticks",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 85620024,
+    "customer_id": 4,
+    "timestamp": "2024-02-07T09:02:22.495171",
+    "items": [
+      {
+        "product_id": 31,
+        "product_name": "Glow-in-Dark Pop Rocks Wearables",
+        "qty": 3
+      },
+      {
+        "product_id": 33,
+        "product_name": "Glow-in-Dark Slime Popping Rocks",
+        "qty": 5
+      },
+      {
+        "product_id": 16,
+        "product_name": "Metallic Rock Spheres",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 86239895,
+    "customer_id": 26,
+    "timestamp": "2024-02-07T22:50:43.847392",
+    "items": [
+      {
+        "product_id": 36,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": 2
+      },
+      {
+        "product_id": 11,
+        "product_name": "Almond Shards Enrobed Slabs",
+        "qty": 1
+      },
+      {
+        "product_id": 10,
+        "product_name": "Sea Salt Crackle Enrobed Bites",
+        "qty": 4
+      },
+      {
+        "product_id": 2,
+        "product_name": "Sea Salt Crackle Chews Bites",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 63730725,
+    "customer_id": 29,
+    "timestamp": "2024-02-07T23:15:36.049021",
+    "items": [
+      {
+        "product_id": 16,
+        "product_name": "Metallic Rock Spheres",
+        "qty": 1
+      },
+      {
+        "product_id": 23,
+        "product_name": "Swirled Drops Spheres",
+        "qty": 4
+      },
+      {
+        "product_id": 18,
+        "product_name": "Metallic Mints Sticks",
+        "qty": 2
+      },
+      {
+        "product_id": 33,
+        "product_name": "Glow-in-Dark Slime Popping Rocks",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 25666419,
+    "customer_id": 17,
+    "timestamp": "2024-02-07T15:44:31.203249",
+    "items": [
+      {
+        "product_id": 22,
+        "product_name": "Metallic Drops Sticks",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 25691551,
+    "customer_id": 2,
+    "timestamp": "2024-02-07T22:35:37.023999",
+    "items": [
+      {
+        "product_id": 2,
+        "product_name": "Sea Salt Crackle Chews Bites",
+        "qty": 2
+      },
+      {
+        "product_id": 16,
+        "product_name": "Metallic Rock Spheres",
+        "qty": 3
+      },
+      {
+        "product_id": 14,
+        "product_name": "Metallic Rock Sticks",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 20262666,
+    "customer_id": 28,
+    "timestamp": "2024-02-07T18:56:19.450451",
+    "items": [
+      {
+        "product_id": 10,
+        "product_name": "Sea Salt Crackle Enrobed Bites",
+        "qty": 4
+      },
+      {
+        "product_id": 33,
+        "product_name": "Glow-in-Dark Slime Popping Rocks",
+        "qty": 4
+      },
+      {
+        "product_id": 23,
+        "product_name": "Swirled Drops Spheres",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 59133491,
+    "customer_id": 13,
+    "timestamp": "2024-02-07T15:30:23.014571",
+    "items": [
+      {
+        "product_id": 24,
+        "product_name": "Metallic Drops Spheres",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 24121583,
+    "customer_id": 17,
+    "timestamp": "2024-02-07T03:58:12.291784",
+    "items": [
+      {
+        "product_id": 12,
+        "product_name": "Sea Salt Crackle Enrobed Slabs",
+        "qty": 2
+      },
+      {
+        "product_id": 21,
+        "product_name": "Swirled Drops Sticks",
+        "qty": 2
+      },
+      {
+        "product_id": 4,
+        "product_name": "Sea Salt Crackle Chews Slabs",
+        "qty": 2
+      },
+      {
+        "product_id": 33,
+        "product_name": "Glow-in-Dark Slime Popping Rocks",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 85829030,
+    "customer_id": 14,
+    "timestamp": "2024-02-07T10:44:36.451022",
+    "items": [
+      {
+        "product_id": 22,
+        "product_name": "Metallic Drops Sticks",
+        "qty": 3
+      },
+      {
+        "product_id": 9,
+        "product_name": "Almond Shards Enrobed Bites",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 40276832,
+    "customer_id": 10,
+    "timestamp": "2024-02-07T04:47:46.592346",
+    "items": [
+      {
+        "product_id": 34,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": 3
+      },
+      {
+        "product_id": 11,
+        "product_name": "Almond Shards Enrobed Slabs",
+        "qty": 2
+      },
+      {
+        "product_id": 5,
+        "product_name": "Almond Shards Squares Bites",
+        "qty": 2
+      },
+      {
+        "product_id": 16,
+        "product_name": "Metallic Rock Spheres",
+        "qty": 2
+      },
+      {
+        "product_id": 25,
+        "product_name": "Glow-in-Dark Wax Popping Rocks",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 39921984,
+    "customer_id": 1,
+    "timestamp": "2024-02-07T04:20:45.987603",
+    "items": [
+      {
+        "product_id": 25,
+        "product_name": "Glow-in-Dark Wax Popping Rocks",
+        "qty": null
+      },
+      {
+        "product_id": 36,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": 2
+      },
+      {
+        "product_id": 7,
+        "product_name": "Almond Shards Squares Slabs",
+        "qty": 5
+      },
+      {
+        "product_id": 4,
+        "product_name": "Sea Salt Crackle Chews Slabs",
+        "qty": 2
+      },
+      {
+        "product_id": 16,
+        "product_name": "Metallic Rock Spheres",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 62301630,
+    "customer_id": 1,
+    "timestamp": "2024-02-07T18:36:50.254516",
+    "items": [
+      {
+        "product_id": 27,
+        "product_name": "Glow-in-Dark Wax Wearables",
+        "qty": 2
+      },
+      {
+        "product_id": 34,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": 2
+      },
+      {
+        "product_id": 2,
+        "product_name": "Sea Salt Crackle Chews Bites",
+        "qty": null
+      },
+      {
+        "product_id": 11,
+        "product_name": "Almond Shards Enrobed Slabs",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 78736000,
+    "customer_id": 7,
+    "timestamp": "2024-02-07T23:09:20.407008",
+    "items": [
+      {
+        "product_id": 2,
+        "product_name": "Sea Salt Crackle Chews Bites",
+        "qty": 5
+      },
+      {
+        "product_id": 36,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": 3
+      },
+      {
+        "product_id": 29,
+        "product_name": "Glow-in-Dark Pop Rocks Popping Rocks",
+        "qty": 4
+      },
+      {
+        "product_id": 9,
+        "product_name": "Almond Shards Enrobed Bites",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 53875473,
+    "customer_id": 11,
+    "timestamp": "2024-02-07T12:34:55.973531",
+    "items": [
+      {
+        "product_id": 4,
+        "product_name": "Sea Salt Crackle Chews Slabs",
+        "qty": 4
+      },
+      {
+        "product_id": 3,
+        "product_name": "Almond Shards Chews Slabs",
+        "qty": 3
+      },
+      {
+        "product_id": 33,
+        "product_name": "Glow-in-Dark Slime Popping Rocks",
+        "qty": null
+      },
+      {
+        "product_id": 13,
+        "product_name": "Swirled Rock Sticks",
+        "qty": 1
+      },
+      {
+        "product_id": 7,
+        "product_name": "Almond Shards Squares Slabs",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 46436041,
+    "customer_id": 4,
+    "timestamp": "2024-02-07T14:03:00.267534",
+    "items": [
+      {
+        "product_id": 10,
+        "product_name": "Sea Salt Crackle Enrobed Bites",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 33485350,
+    "customer_id": 19,
+    "timestamp": "2024-02-07T06:13:55.356293",
+    "items": [
+      {
+        "product_id": 11,
+        "product_name": "Almond Shards Enrobed Slabs",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 89556065,
+    "customer_id": 23,
+    "timestamp": "2024-02-07T22:01:30.050678",
+    "items": [
+      {
+        "product_id": 14,
+        "product_name": "Metallic Rock Sticks",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 31673968,
+    "customer_id": 30,
+    "timestamp": "2024-02-07T22:10:05.797164",
+    "items": [
+      {
+        "product_id": 2,
+        "product_name": "Sea Salt Crackle Chews Bites",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 94456123,
+    "customer_id": 18,
+    "timestamp": "2024-02-07T05:44:29.839106",
+    "items": [
+      {
+        "product_id": 3,
+        "product_name": "Almond Shards Chews Slabs",
+        "qty": 3
+      },
+      {
+        "product_id": 2,
+        "product_name": "Sea Salt Crackle Chews Bites",
+        "qty": 2
+      },
+      {
+        "product_id": 10,
+        "product_name": "Sea Salt Crackle Enrobed Bites",
+        "qty": 5
+      },
+      {
+        "product_id": 17,
+        "product_name": "Swirled Mints Sticks",
+        "qty": 5
+      },
+      {
+        "product_id": 26,
+        "product_name": "Edible Glitter Wax Popping Rocks",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 84460412,
+    "customer_id": 4,
+    "timestamp": "2024-02-07T00:17:20.776342",
+    "items": [
+      {
+        "product_id": 28,
+        "product_name": "Edible Glitter Wax Wearables",
+        "qty": 2
+      },
+      {
+        "product_id": 27,
+        "product_name": "Glow-in-Dark Wax Wearables",
+        "qty": 4
+      },
+      {
+        "product_id": 18,
+        "product_name": "Metallic Mints Sticks",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 24166906,
+    "customer_id": 9,
+    "timestamp": "2024-02-07T12:24:56.775501",
+    "items": [
+      {
+        "product_id": 17,
+        "product_name": "Swirled Mints Sticks",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 87523303,
+    "customer_id": 22,
+    "timestamp": "2024-02-07T16:41:59.582223",
+    "items": [
+      {
+        "product_id": 32,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 94317660,
+    "customer_id": 18,
+    "timestamp": "2024-02-07T16:57:27.005316",
+    "items": [
+      {
+        "product_id": 36,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": 4
+      },
+      {
+        "product_id": 7,
+        "product_name": "Almond Shards Squares Slabs",
+        "qty": 2
+      },
+      {
+        "product_id": 34,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 86824748,
+    "customer_id": 15,
+    "timestamp": "2024-02-07T23:28:59.661576",
+    "items": [
+      {
+        "product_id": 5,
+        "product_name": "Almond Shards Squares Bites",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 92903576,
+    "customer_id": 30,
+    "timestamp": "2024-02-07T16:42:46.985539",
+    "items": [
+      {
+        "product_id": 16,
+        "product_name": "Metallic Rock Spheres",
+        "qty": 5
+      },
+      {
+        "product_id": 21,
+        "product_name": "Swirled Drops Sticks",
+        "qty": 3
+      },
+      {
+        "product_id": 10,
+        "product_name": "Sea Salt Crackle Enrobed Bites",
+        "qty": 5
+      },
+      {
+        "product_id": 18,
+        "product_name": "Metallic Mints Sticks",
+        "qty": 1
+      },
+      {
+        "product_id": 28,
+        "product_name": "Edible Glitter Wax Wearables",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 67685703,
+    "customer_id": 2,
+    "timestamp": "2024-02-07T00:26:58.327497",
+    "items": [
+      {
+        "product_id": 2,
+        "product_name": "Sea Salt Crackle Chews Bites",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 17401052,
+    "customer_id": 19,
+    "timestamp": "2024-02-07T22:56:47.940885",
+    "items": [
+      {
+        "product_id": 27,
+        "product_name": "Glow-in-Dark Wax Wearables",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 37303768,
+    "customer_id": 6,
+    "timestamp": "2024-02-07T04:09:03.718618",
+    "items": [
+      {
+        "product_id": 3,
+        "product_name": "Almond Shards Chews Slabs",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 63786528,
+    "customer_id": 4,
+    "timestamp": "2024-02-07T04:26:23.004595",
+    "items": [
+      {
+        "product_id": 9,
+        "product_name": "Almond Shards Enrobed Bites",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 93202427,
+    "customer_id": 27,
+    "timestamp": "2024-02-07T20:33:21.269908",
+    "items": [
+      {
+        "product_id": 6,
+        "product_name": "Sea Salt Crackle Squares Bites",
+        "qty": 4
+      },
+      {
+        "product_id": 25,
+        "product_name": "Glow-in-Dark Wax Popping Rocks",
+        "qty": 5
+      },
+      {
+        "product_id": 22,
+        "product_name": "Metallic Drops Sticks",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 26628033,
+    "customer_id": 13,
+    "timestamp": "2024-02-07T13:36:16.634267",
+    "items": [
+      {
+        "product_id": 2,
+        "product_name": "Sea Salt Crackle Chews Bites",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 10567562,
+    "customer_id": 13,
+    "timestamp": "2024-02-07T21:18:31.944900",
+    "items": [
+      {
+        "product_id": 18,
+        "product_name": "Metallic Mints Sticks",
+        "qty": 4
+      },
+      {
+        "product_id": 17,
+        "product_name": "Swirled Mints Sticks",
+        "qty": 5
+      },
+      {
+        "product_id": 32,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 28226886,
+    "customer_id": 21,
+    "timestamp": "2024-02-07T23:23:00.364610",
+    "items": [
+      {
+        "product_id": 2,
+        "product_name": "Sea Salt Crackle Chews Bites",
+        "qty": 1
+      },
+      {
+        "product_id": 14,
+        "product_name": "Metallic Rock Sticks",
+        "qty": 5
+      },
+      {
+        "product_id": 12,
+        "product_name": "Sea Salt Crackle Enrobed Slabs",
+        "qty": 4
+      },
+      {
+        "product_id": 4,
+        "product_name": "Sea Salt Crackle Chews Slabs",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 72220269,
+    "customer_id": 14,
+    "timestamp": "2024-02-07T07:52:17.227447",
+    "items": [
+      {
+        "product_id": 30,
+        "product_name": "Edible Glitter Pop Rocks Popping Rocks",
+        "qty": 2
+      },
+      {
+        "product_id": 33,
+        "product_name": "Glow-in-Dark Slime Popping Rocks",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 12793551,
+    "customer_id": 1,
+    "timestamp": "2024-02-07T04:02:38.962995",
+    "items": [
+      {
+        "product_id": 27,
+        "product_name": "Glow-in-Dark Wax Wearables",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 8475504,
+    "customer_id": 10,
+    "timestamp": "2024-02-07T18:23:32.409047",
+    "items": [
+      {
+        "product_id": 18,
+        "product_name": "Metallic Mints Sticks",
+        "qty": 4
+      },
+      {
+        "product_id": 32,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": 3
+      },
+      {
+        "product_id": 16,
+        "product_name": "Metallic Rock Spheres",
+        "qty": 3
+      },
+      {
+        "product_id": 6,
+        "product_name": "Sea Salt Crackle Squares Bites",
+        "qty": 1
+      },
+      {
+        "product_id": 22,
+        "product_name": "Metallic Drops Sticks",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 96334565,
+    "customer_id": 20,
+    "timestamp": "2024-02-07T01:26:10.282833",
+    "items": [
+      {
+        "product_id": 33,
+        "product_name": "Glow-in-Dark Slime Popping Rocks",
+        "qty": 2
+      },
+      {
+        "product_id": 16,
+        "product_name": "Metallic Rock Spheres",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 82874701,
+    "customer_id": 15,
+    "timestamp": "2024-02-07T02:46:19.227488",
+    "items": [
+      {
+        "product_id": 7,
+        "product_name": "Almond Shards Squares Slabs",
+        "qty": 1
+      },
+      {
+        "product_id": 13,
+        "product_name": "Swirled Rock Sticks",
+        "qty": 3
+      },
+      {
+        "product_id": 12,
+        "product_name": "Sea Salt Crackle Enrobed Slabs",
+        "qty": 2
+      },
+      {
+        "product_id": 32,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": 2
+      },
+      {
+        "product_id": 26,
+        "product_name": "Edible Glitter Wax Popping Rocks",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 3290815,
+    "customer_id": 24,
+    "timestamp": "2024-02-07T23:15:42.735501",
+    "items": [
+      {
+        "product_id": 22,
+        "product_name": "Metallic Drops Sticks",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 99641859,
+    "customer_id": 20,
+    "timestamp": "2024-02-07T08:04:17.363637",
+    "items": [
+      {
+        "product_id": 31,
+        "product_name": "Glow-in-Dark Pop Rocks Wearables",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 17763270,
+    "customer_id": 1,
+    "timestamp": "2024-02-07T06:33:16.906539",
+    "items": [
+      {
+        "product_id": 14,
+        "product_name": "Metallic Rock Sticks",
+        "qty": 4
+      },
+      {
+        "product_id": 16,
+        "product_name": "Metallic Rock Spheres",
+        "qty": 4
+      },
+      {
+        "product_id": 7,
+        "product_name": "Almond Shards Squares Slabs",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 26736851,
+    "customer_id": 14,
+    "timestamp": "2024-02-07T16:05:56.848244",
+    "items": [
+      {
+        "product_id": 5,
+        "product_name": "Almond Shards Squares Bites",
+        "qty": 4
+      },
+      {
+        "product_id": 22,
+        "product_name": "Metallic Drops Sticks",
+        "qty": 1
+      },
+      {
+        "product_id": 23,
+        "product_name": "Swirled Drops Spheres",
+        "qty": 3
+      },
+      {
+        "product_id": 10,
+        "product_name": "Sea Salt Crackle Enrobed Bites",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 72862462,
+    "customer_id": 8,
+    "timestamp": "2024-02-07T13:56:53.291158",
+    "items": [
+      {
+        "product_id": 10,
+        "product_name": "Sea Salt Crackle Enrobed Bites",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 87484320,
+    "customer_id": 1,
+    "timestamp": "2024-02-07T02:49:30.523655",
+    "items": [
+      {
+        "product_id": 29,
+        "product_name": "Glow-in-Dark Pop Rocks Popping Rocks",
+        "qty": null
+      },
+      {
+        "product_id": 12,
+        "product_name": "Sea Salt Crackle Enrobed Slabs",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 35986417,
+    "customer_id": 25,
+    "timestamp": "2024-02-07T19:03:56.726026",
+    "items": [
+      {
+        "product_id": 32,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 31983086,
+    "customer_id": 6,
+    "timestamp": "2024-02-07T18:33:26.186774",
+    "items": [
+      {
+        "product_id": 25,
+        "product_name": "Glow-in-Dark Wax Popping Rocks",
+        "qty": 2
+      },
+      {
+        "product_id": 13,
+        "product_name": "Swirled Rock Sticks",
+        "qty": 1
+      },
+      {
+        "product_id": 2,
+        "product_name": "Sea Salt Crackle Chews Bites",
+        "qty": 3
+      },
+      {
+        "product_id": 19,
+        "product_name": "Swirled Mints Spheres",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 45848559,
+    "customer_id": 10,
+    "timestamp": "2024-02-07T04:51:10.847751",
+    "items": [
+      {
+        "product_id": 16,
+        "product_name": "Metallic Rock Spheres",
+        "qty": 1
+      },
+      {
+        "product_id": 24,
+        "product_name": "Metallic Drops Spheres",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 16071308,
+    "customer_id": 9,
+    "timestamp": "2024-02-07T11:26:40.466263",
+    "items": [
+      {
+        "product_id": 28,
+        "product_name": "Edible Glitter Wax Wearables",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 2734365,
+    "customer_id": 14,
+    "timestamp": "2024-02-07T19:41:04.221926",
+    "items": [
+      {
+        "product_id": 25,
+        "product_name": "Glow-in-Dark Wax Popping Rocks",
+        "qty": 4
+      },
+      {
+        "product_id": 22,
+        "product_name": "Metallic Drops Sticks",
+        "qty": 3
+      },
+      {
+        "product_id": 20,
+        "product_name": "Metallic Mints Spheres",
+        "qty": 5
+      },
+      {
+        "product_id": 34,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": 5
+      },
+      {
+        "product_id": 24,
+        "product_name": "Metallic Drops Spheres",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 26630744,
+    "customer_id": 11,
+    "timestamp": "2024-02-07T20:37:09.637364",
+    "items": [
+      {
+        "product_id": 19,
+        "product_name": "Swirled Mints Spheres",
+        "qty": 4
+      },
+      {
+        "product_id": 23,
+        "product_name": "Swirled Drops Spheres",
+        "qty": 5
+      },
+      {
+        "product_id": 33,
+        "product_name": "Glow-in-Dark Slime Popping Rocks",
+        "qty": 4
+      },
+      {
+        "product_id": 31,
+        "product_name": "Glow-in-Dark Pop Rocks Wearables",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 47438280,
+    "customer_id": 24,
+    "timestamp": "2024-02-07T13:44:59.456296",
+    "items": [
+      {
+        "product_id": 30,
+        "product_name": "Edible Glitter Pop Rocks Popping Rocks",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 8813352,
+    "customer_id": 8,
+    "timestamp": "2024-02-07T07:24:16.949895",
+    "items": [
+      {
+        "product_id": 27,
+        "product_name": "Glow-in-Dark Wax Wearables",
+        "qty": 4
+      },
+      {
+        "product_id": 11,
+        "product_name": "Almond Shards Enrobed Slabs",
+        "qty": 4
+      },
+      {
+        "product_id": 24,
+        "product_name": "Metallic Drops Spheres",
+        "qty": 3
+      },
+      {
+        "product_id": 30,
+        "product_name": "Edible Glitter Pop Rocks Popping Rocks",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 19604,
+    "customer_id": 4,
+    "timestamp": "2024-02-07T11:03:07.577205",
+    "items": [
+      {
+        "product_id": 35,
+        "product_name": "Glow-in-Dark Slime Wearables",
+        "qty": 4
+      },
+      {
+        "product_id": 32,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": 5
+      },
+      {
+        "product_id": 33,
+        "product_name": "Glow-in-Dark Slime Popping Rocks",
+        "qty": null
+      },
+      {
+        "product_id": 8,
+        "product_name": "Sea Salt Crackle Squares Slabs",
+        "qty": 3
+      },
+      {
+        "product_id": 13,
+        "product_name": "Swirled Rock Sticks",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 88508615,
+    "customer_id": 19,
+    "timestamp": "2024-02-07T23:59:16.999656",
+    "items": [
+      {
+        "product_id": 6,
+        "product_name": "Sea Salt Crackle Squares Bites",
+        "qty": 5
+      },
+      {
+        "product_id": 19,
+        "product_name": "Swirled Mints Spheres",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 26315299,
+    "customer_id": 8,
+    "timestamp": "2024-02-07T10:43:19.313553",
+    "items": [
+      {
+        "product_id": 1,
+        "product_name": "Almond Shards Chews Bites",
+        "qty": 1
+      },
+      {
+        "product_id": 22,
+        "product_name": "Metallic Drops Sticks",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 57356282,
+    "customer_id": 13,
+    "timestamp": "2024-02-07T16:28:10.158523",
+    "items": [
+      {
+        "product_id": 33,
+        "product_name": "Glow-in-Dark Slime Popping Rocks",
+        "qty": 4
+      },
+      {
+        "product_id": 31,
+        "product_name": "Glow-in-Dark Pop Rocks Wearables",
+        "qty": 3
+      },
+      {
+        "product_id": 30,
+        "product_name": "Edible Glitter Pop Rocks Popping Rocks",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 38281735,
+    "customer_id": 10,
+    "timestamp": "2024-02-07T14:31:15.437049",
+    "items": [
+      {
+        "product_id": 14,
+        "product_name": "Metallic Rock Sticks",
+        "qty": 2
+      },
+      {
+        "product_id": 19,
+        "product_name": "Swirled Mints Spheres",
+        "qty": null
+      },
+      {
+        "product_id": 8,
+        "product_name": "Sea Salt Crackle Squares Slabs",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 85997218,
+    "customer_id": 9,
+    "timestamp": "2024-02-07T16:05:46.401719",
+    "items": [
+      {
+        "product_id": 3,
+        "product_name": "Almond Shards Chews Slabs",
+        "qty": 2
+      },
+      {
+        "product_id": 29,
+        "product_name": "Glow-in-Dark Pop Rocks Popping Rocks",
+        "qty": 2
+      },
+      {
+        "product_id": 34,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 19840697,
+    "customer_id": 12,
+    "timestamp": "2024-02-07T23:04:14.253198",
+    "items": [
+      {
+        "product_id": 31,
+        "product_name": "Glow-in-Dark Pop Rocks Wearables",
+        "qty": 3
+      },
+      {
+        "product_id": 11,
+        "product_name": "Almond Shards Enrobed Slabs",
+        "qty": 2
+      },
+      {
+        "product_id": 16,
+        "product_name": "Metallic Rock Spheres",
+        "qty": 1
+      },
+      {
+        "product_id": 22,
+        "product_name": "Metallic Drops Sticks",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 490618,
+    "customer_id": 26,
+    "timestamp": "2024-02-07T08:44:27.596569",
+    "items": [
+      {
+        "product_id": 7,
+        "product_name": "Almond Shards Squares Slabs",
+        "qty": 4
+      },
+      {
+        "product_id": 28,
+        "product_name": "Edible Glitter Wax Wearables",
+        "qty": 5
+      },
+      {
+        "product_id": 18,
+        "product_name": "Metallic Mints Sticks",
+        "qty": 4
+      },
+      {
+        "product_id": 16,
+        "product_name": "Metallic Rock Spheres",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 64292947,
+    "customer_id": 16,
+    "timestamp": "2024-02-07T04:46:13.145768",
+    "items": [
+      {
+        "product_id": 26,
+        "product_name": "Edible Glitter Wax Popping Rocks",
+        "qty": 5
+      },
+      {
+        "product_id": 19,
+        "product_name": "Swirled Mints Spheres",
+        "qty": 3
+      },
+      {
+        "product_id": 22,
+        "product_name": "Metallic Drops Sticks",
+        "qty": 3
+      },
+      {
+        "product_id": 33,
+        "product_name": "Glow-in-Dark Slime Popping Rocks",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 21073745,
+    "customer_id": 19,
+    "timestamp": "2024-02-07T04:00:26.654924",
+    "items": [
+      {
+        "product_id": 26,
+        "product_name": "Edible Glitter Wax Popping Rocks",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 33408080,
+    "customer_id": 5,
+    "timestamp": "2024-02-07T16:10:15.639413",
+    "items": [
+      {
+        "product_id": 5,
+        "product_name": "Almond Shards Squares Bites",
+        "qty": null
+      },
+      {
+        "product_id": 32,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": 3
+      },
+      {
+        "product_id": 20,
+        "product_name": "Metallic Mints Spheres",
+        "qty": 5
+      },
+      {
+        "product_id": 18,
+        "product_name": "Metallic Mints Sticks",
+        "qty": 2
+      },
+      {
+        "product_id": 29,
+        "product_name": "Glow-in-Dark Pop Rocks Popping Rocks",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 52877096,
+    "customer_id": 13,
+    "timestamp": "2024-02-07T14:35:48.526247",
+    "items": [
+      {
+        "product_id": 25,
+        "product_name": "Glow-in-Dark Wax Popping Rocks",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 31117384,
+    "customer_id": 7,
+    "timestamp": "2024-02-07T08:45:04.517246",
+    "items": [
+      {
+        "product_id": 23,
+        "product_name": "Swirled Drops Spheres",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 16847344,
+    "customer_id": 30,
+    "timestamp": "2024-02-07T06:15:59.718416",
+    "items": [
+      {
+        "product_id": 31,
+        "product_name": "Glow-in-Dark Pop Rocks Wearables",
+        "qty": 2
+      },
+      {
+        "product_id": 4,
+        "product_name": "Sea Salt Crackle Chews Slabs",
+        "qty": 4
+      },
+      {
+        "product_id": 29,
+        "product_name": "Glow-in-Dark Pop Rocks Popping Rocks",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 17664583,
+    "customer_id": 7,
+    "timestamp": "2024-02-07T09:37:59.010100",
+    "items": [
+      {
+        "product_id": 24,
+        "product_name": "Metallic Drops Spheres",
+        "qty": 2
+      },
+      {
+        "product_id": 28,
+        "product_name": "Edible Glitter Wax Wearables",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 76869540,
+    "customer_id": 8,
+    "timestamp": "2024-02-07T13:15:48.154181",
+    "items": [
+      {
+        "product_id": 27,
+        "product_name": "Glow-in-Dark Wax Wearables",
+        "qty": 1
+      },
+      {
+        "product_id": 3,
+        "product_name": "Almond Shards Chews Slabs",
+        "qty": 2
+      },
+      {
+        "product_id": 7,
+        "product_name": "Almond Shards Squares Slabs",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 76837523,
+    "customer_id": 22,
+    "timestamp": "2024-02-07T22:02:16.257598",
+    "items": [
+      {
+        "product_id": 33,
+        "product_name": "Glow-in-Dark Slime Popping Rocks",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 34184285,
+    "customer_id": 13,
+    "timestamp": "2024-02-07T04:36:55.798097",
+    "items": [
+      {
+        "product_id": 21,
+        "product_name": "Swirled Drops Sticks",
+        "qty": 5
+      },
+      {
+        "product_id": 4,
+        "product_name": "Sea Salt Crackle Chews Slabs",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 71792246,
+    "customer_id": 27,
+    "timestamp": "2024-02-07T00:06:50.559242",
+    "items": [
+      {
+        "product_id": 24,
+        "product_name": "Metallic Drops Spheres",
+        "qty": 5
+      },
+      {
+        "product_id": 21,
+        "product_name": "Swirled Drops Sticks",
+        "qty": 4
+      },
+      {
+        "product_id": 27,
+        "product_name": "Glow-in-Dark Wax Wearables",
+        "qty": null
+      },
+      {
+        "product_id": 22,
+        "product_name": "Metallic Drops Sticks",
+        "qty": 1
+      },
+      {
+        "product_id": 28,
+        "product_name": "Edible Glitter Wax Wearables",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 76411885,
+    "customer_id": 15,
+    "timestamp": "2024-02-07T11:08:10.901053",
+    "items": [
+      {
+        "product_id": 32,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": 1
+      },
+      {
+        "product_id": 8,
+        "product_name": "Sea Salt Crackle Squares Slabs",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 95405345,
+    "customer_id": 25,
+    "timestamp": "2024-02-07T09:54:35.945499",
+    "items": [
+      {
+        "product_id": 21,
+        "product_name": "Swirled Drops Sticks",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 40167282,
+    "customer_id": 1,
+    "timestamp": "2024-02-07T22:10:11.369831",
+    "items": [
+      {
+        "product_id": 20,
+        "product_name": "Metallic Mints Spheres",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 4320524,
+    "customer_id": 1,
+    "timestamp": "2024-02-07T07:28:59.716835",
+    "items": [
+      {
+        "product_id": 25,
+        "product_name": "Glow-in-Dark Wax Popping Rocks",
+        "qty": 5
+      },
+      {
+        "product_id": 6,
+        "product_name": "Sea Salt Crackle Squares Bites",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 29359757,
+    "customer_id": 16,
+    "timestamp": "2024-02-07T04:27:07.877935",
+    "items": [
+      {
+        "product_id": 33,
+        "product_name": "Glow-in-Dark Slime Popping Rocks",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 51599732,
+    "customer_id": 6,
+    "timestamp": "2024-02-07T19:38:16.391704",
+    "items": [
+      {
+        "product_id": 30,
+        "product_name": "Edible Glitter Pop Rocks Popping Rocks",
+        "qty": 4
+      },
+      {
+        "product_id": 20,
+        "product_name": "Metallic Mints Spheres",
+        "qty": 1
+      },
+      {
+        "product_id": 14,
+        "product_name": "Metallic Rock Sticks",
+        "qty": 3
+      },
+      {
+        "product_id": 22,
+        "product_name": "Metallic Drops Sticks",
+        "qty": 5
+      },
+      {
+        "product_id": 18,
+        "product_name": "Metallic Mints Sticks",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 57999879,
+    "customer_id": 7,
+    "timestamp": "2024-02-07T02:57:46.619164",
+    "items": [
+      {
+        "product_id": 7,
+        "product_name": "Almond Shards Squares Slabs",
+        "qty": 3
+      },
+      {
+        "product_id": 25,
+        "product_name": "Glow-in-Dark Wax Popping Rocks",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 25223538,
+    "customer_id": 17,
+    "timestamp": "2024-02-07T22:02:21.377492",
+    "items": [
+      {
+        "product_id": 22,
+        "product_name": "Metallic Drops Sticks",
+        "qty": 2
+      },
+      {
+        "product_id": 4,
+        "product_name": "Sea Salt Crackle Chews Slabs",
+        "qty": 3
+      },
+      {
+        "product_id": 29,
+        "product_name": "Glow-in-Dark Pop Rocks Popping Rocks",
+        "qty": 2
+      },
+      {
+        "product_id": 3,
+        "product_name": "Almond Shards Chews Slabs",
+        "qty": 4
+      },
+      {
+        "product_id": 13,
+        "product_name": "Swirled Rock Sticks",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 40250132,
+    "customer_id": 13,
+    "timestamp": "2024-02-07T03:20:11.342185",
+    "items": [
+      {
+        "product_id": 13,
+        "product_name": "Swirled Rock Sticks",
+        "qty": 2
+      },
+      {
+        "product_id": 17,
+        "product_name": "Swirled Mints Sticks",
+        "qty": 3
+      },
+      {
+        "product_id": 20,
+        "product_name": "Metallic Mints Spheres",
+        "qty": 2
+      },
+      {
+        "product_id": 30,
+        "product_name": "Edible Glitter Pop Rocks Popping Rocks",
+        "qty": 3
+      },
+      {
+        "product_id": 36,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 58332325,
+    "customer_id": 14,
+    "timestamp": "2024-02-07T05:42:49.140059",
+    "items": [
+      {
+        "product_id": 18,
+        "product_name": "Metallic Mints Sticks",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 97993503,
+    "customer_id": 17,
+    "timestamp": "2024-02-07T03:19:09.194971",
+    "items": [
+      {
+        "product_id": 34,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": 4
+      },
+      {
+        "product_id": 2,
+        "product_name": "Sea Salt Crackle Chews Bites",
+        "qty": 5
+      },
+      {
+        "product_id": 24,
+        "product_name": "Metallic Drops Spheres",
+        "qty": 4
+      },
+      {
+        "product_id": 26,
+        "product_name": "Edible Glitter Wax Popping Rocks",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 52565963,
+    "customer_id": 23,
+    "timestamp": "2024-02-07T04:47:55.418634",
+    "items": [
+      {
+        "product_id": 27,
+        "product_name": "Glow-in-Dark Wax Wearables",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 80401433,
+    "customer_id": 16,
+    "timestamp": "2024-02-07T00:25:19.118900",
+    "items": [
+      {
+        "product_id": 7,
+        "product_name": "Almond Shards Squares Slabs",
+        "qty": 4
+      },
+      {
+        "product_id": 12,
+        "product_name": "Sea Salt Crackle Enrobed Slabs",
+        "qty": 2
+      },
+      {
+        "product_id": 14,
+        "product_name": "Metallic Rock Sticks",
+        "qty": 5
+      },
+      {
+        "product_id": 29,
+        "product_name": "Glow-in-Dark Pop Rocks Popping Rocks",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 48443093,
+    "customer_id": 7,
+    "timestamp": "2024-02-07T21:44:36.805360",
+    "items": [
+      {
+        "product_id": 32,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": 3
+      },
+      {
+        "product_id": 27,
+        "product_name": "Glow-in-Dark Wax Wearables",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 57212407,
+    "customer_id": 11,
+    "timestamp": "2024-02-07T12:45:47.100476",
+    "items": [
+      {
+        "product_id": 13,
+        "product_name": "Swirled Rock Sticks",
+        "qty": 2
+      },
+      {
+        "product_id": 27,
+        "product_name": "Glow-in-Dark Wax Wearables",
+        "qty": 4
+      },
+      {
+        "product_id": 12,
+        "product_name": "Sea Salt Crackle Enrobed Slabs",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 55870190,
+    "customer_id": 20,
+    "timestamp": "2024-02-07T07:41:46.525518",
+    "items": [
+      {
+        "product_id": 34,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": null
+      },
+      {
+        "product_id": 27,
+        "product_name": "Glow-in-Dark Wax Wearables",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 41037964,
+    "customer_id": 21,
+    "timestamp": "2024-02-07T19:34:18.803073",
+    "items": [
+      {
+        "product_id": 30,
+        "product_name": "Edible Glitter Pop Rocks Popping Rocks",
+        "qty": null
+      },
+      {
+        "product_id": 34,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 86102748,
+    "customer_id": 3,
+    "timestamp": "2024-02-07T14:31:08.696238",
+    "items": [
+      {
+        "product_id": 16,
+        "product_name": "Metallic Rock Spheres",
+        "qty": null
+      },
+      {
+        "product_id": 5,
+        "product_name": "Almond Shards Squares Bites",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 48571936,
+    "customer_id": 26,
+    "timestamp": "2024-02-07T14:41:11.140088",
+    "items": [
+      {
+        "product_id": 10,
+        "product_name": "Sea Salt Crackle Enrobed Bites",
+        "qty": 4
+      },
+      {
+        "product_id": 36,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": 5
+      },
+      {
+        "product_id": 6,
+        "product_name": "Sea Salt Crackle Squares Bites",
+        "qty": null
+      },
+      {
+        "product_id": 7,
+        "product_name": "Almond Shards Squares Slabs",
+        "qty": 2
+      },
+      {
+        "product_id": 8,
+        "product_name": "Sea Salt Crackle Squares Slabs",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 71083554,
+    "customer_id": 4,
+    "timestamp": "2024-02-07T15:33:32.963649",
+    "items": [
+      {
+        "product_id": 19,
+        "product_name": "Swirled Mints Spheres",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 86607874,
+    "customer_id": 27,
+    "timestamp": "2024-02-07T05:58:32.744393",
+    "items": [
+      {
+        "product_id": 7,
+        "product_name": "Almond Shards Squares Slabs",
+        "qty": 1
+      },
+      {
+        "product_id": 23,
+        "product_name": "Swirled Drops Spheres",
+        "qty": 4
+      },
+      {
+        "product_id": 3,
+        "product_name": "Almond Shards Chews Slabs",
+        "qty": 5
+      },
+      {
+        "product_id": 14,
+        "product_name": "Metallic Rock Sticks",
+        "qty": 4
+      },
+      {
+        "product_id": 32,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 83558449,
+    "customer_id": 4,
+    "timestamp": "2024-02-07T02:41:18.731177",
+    "items": [
+      {
+        "product_id": 16,
+        "product_name": "Metallic Rock Spheres",
+        "qty": 2
+      },
+      {
+        "product_id": 32,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": 2
+      },
+      {
+        "product_id": 7,
+        "product_name": "Almond Shards Squares Slabs",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 68611682,
+    "customer_id": 26,
+    "timestamp": "2024-02-07T23:56:34.272515",
+    "items": [
+      {
+        "product_id": 7,
+        "product_name": "Almond Shards Squares Slabs",
+        "qty": 5
+      },
+      {
+        "product_id": 12,
+        "product_name": "Sea Salt Crackle Enrobed Slabs",
+        "qty": 5
+      },
+      {
+        "product_id": 14,
+        "product_name": "Metallic Rock Sticks",
+        "qty": 1
+      },
+      {
+        "product_id": 18,
+        "product_name": "Metallic Mints Sticks",
+        "qty": 5
+      },
+      {
+        "product_id": 26,
+        "product_name": "Edible Glitter Wax Popping Rocks",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 12939797,
+    "customer_id": 24,
+    "timestamp": "2024-02-07T14:58:06.645741",
+    "items": [
+      {
+        "product_id": 20,
+        "product_name": "Metallic Mints Spheres",
+        "qty": 2
+      },
+      {
+        "product_id": 11,
+        "product_name": "Almond Shards Enrobed Slabs",
+        "qty": 4
+      },
+      {
+        "product_id": 16,
+        "product_name": "Metallic Rock Spheres",
+        "qty": 3
+      },
+      {
+        "product_id": 27,
+        "product_name": "Glow-in-Dark Wax Wearables",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 73611211,
+    "customer_id": 2,
+    "timestamp": "2024-02-07T13:23:35.711683",
+    "items": [
+      {
+        "product_id": 24,
+        "product_name": "Metallic Drops Spheres",
+        "qty": 1
+      },
+      {
+        "product_id": 29,
+        "product_name": "Glow-in-Dark Pop Rocks Popping Rocks",
+        "qty": 1
+      },
+      {
+        "product_id": 31,
+        "product_name": "Glow-in-Dark Pop Rocks Wearables",
+        "qty": null
+      },
+      {
+        "product_id": 28,
+        "product_name": "Edible Glitter Wax Wearables",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 12813724,
+    "customer_id": 29,
+    "timestamp": "2024-02-07T22:26:38.217561",
+    "items": [
+      {
+        "product_id": 15,
+        "product_name": "Swirled Rock Spheres",
+        "qty": 1
+      },
+      {
+        "product_id": 16,
+        "product_name": "Metallic Rock Spheres",
+        "qty": 5
+      },
+      {
+        "product_id": 9,
+        "product_name": "Almond Shards Enrobed Bites",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 61841630,
+    "customer_id": 7,
+    "timestamp": "2024-02-07T13:29:51.851758",
+    "items": [
+      {
+        "product_id": 9,
+        "product_name": "Almond Shards Enrobed Bites",
+        "qty": 4
+      },
+      {
+        "product_id": 2,
+        "product_name": "Sea Salt Crackle Chews Bites",
+        "qty": 5
+      },
+      {
+        "product_id": 12,
+        "product_name": "Sea Salt Crackle Enrobed Slabs",
+        "qty": 1
+      },
+      {
+        "product_id": 14,
+        "product_name": "Metallic Rock Sticks",
+        "qty": 5
+      },
+      {
+        "product_id": 13,
+        "product_name": "Swirled Rock Sticks",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 11961905,
+    "customer_id": 3,
+    "timestamp": "2024-02-07T23:43:25.496287",
+    "items": [
+      {
+        "product_id": 6,
+        "product_name": "Sea Salt Crackle Squares Bites",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 27600819,
+    "customer_id": 4,
+    "timestamp": "2024-02-07T01:41:07.938821",
+    "items": [
+      {
+        "product_id": 11,
+        "product_name": "Almond Shards Enrobed Slabs",
+        "qty": 5
+      },
+      {
+        "product_id": 13,
+        "product_name": "Swirled Rock Sticks",
+        "qty": 2
+      },
+      {
+        "product_id": 8,
+        "product_name": "Sea Salt Crackle Squares Slabs",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 92485724,
+    "customer_id": 3,
+    "timestamp": "2024-02-07T20:26:30.132339",
+    "items": [
+      {
+        "product_id": 5,
+        "product_name": "Almond Shards Squares Bites",
+        "qty": 4
+      },
+      {
+        "product_id": 15,
+        "product_name": "Swirled Rock Spheres",
+        "qty": 2
+      },
+      {
+        "product_id": 31,
+        "product_name": "Glow-in-Dark Pop Rocks Wearables",
+        "qty": 3
+      },
+      {
+        "product_id": 22,
+        "product_name": "Metallic Drops Sticks",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 85643493,
+    "customer_id": 18,
+    "timestamp": "2024-02-07T19:40:10.963354",
+    "items": [
+      {
+        "product_id": 36,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": 3
+      },
+      {
+        "product_id": 5,
+        "product_name": "Almond Shards Squares Bites",
+        "qty": 3
+      },
+      {
+        "product_id": 29,
+        "product_name": "Glow-in-Dark Pop Rocks Popping Rocks",
+        "qty": 5
+      },
+      {
+        "product_id": 4,
+        "product_name": "Sea Salt Crackle Chews Slabs",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 14724890,
+    "customer_id": 14,
+    "timestamp": "2024-02-07T00:31:16.308270",
+    "items": [
+      {
+        "product_id": 31,
+        "product_name": "Glow-in-Dark Pop Rocks Wearables",
+        "qty": 4
+      },
+      {
+        "product_id": 22,
+        "product_name": "Metallic Drops Sticks",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 53480368,
+    "customer_id": 28,
+    "timestamp": "2024-02-07T21:48:44.536655",
+    "items": [
+      {
+        "product_id": 26,
+        "product_name": "Edible Glitter Wax Popping Rocks",
+        "qty": 3
+      },
+      {
+        "product_id": 3,
+        "product_name": "Almond Shards Chews Slabs",
+        "qty": 4
+      },
+      {
+        "product_id": 16,
+        "product_name": "Metallic Rock Spheres",
+        "qty": 5
+      },
+      {
+        "product_id": 19,
+        "product_name": "Swirled Mints Spheres",
+        "qty": 2
+      },
+      {
+        "product_id": 31,
+        "product_name": "Glow-in-Dark Pop Rocks Wearables",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 3335553,
+    "customer_id": 4,
+    "timestamp": "2024-02-07T12:57:10.525829",
+    "items": [
+      {
+        "product_id": 23,
+        "product_name": "Swirled Drops Spheres",
+        "qty": 5
+      },
+      {
+        "product_id": 4,
+        "product_name": "Sea Salt Crackle Chews Slabs",
+        "qty": 5
+      },
+      {
+        "product_id": 15,
+        "product_name": "Swirled Rock Spheres",
+        "qty": 2
+      },
+      {
+        "product_id": 27,
+        "product_name": "Glow-in-Dark Wax Wearables",
+        "qty": 5
+      },
+      {
+        "product_id": 32,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 1227914,
+    "customer_id": 12,
+    "timestamp": "2024-02-07T07:34:14.633733",
+    "items": [
+      {
+        "product_id": 11,
+        "product_name": "Almond Shards Enrobed Slabs",
+        "qty": 3
+      },
+      {
+        "product_id": 5,
+        "product_name": "Almond Shards Squares Bites",
+        "qty": 2
+      },
+      {
+        "product_id": 34,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": 3
+      },
+      {
+        "product_id": 9,
+        "product_name": "Almond Shards Enrobed Bites",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 99537733,
+    "customer_id": 18,
+    "timestamp": "2024-02-07T09:11:51.376308",
+    "items": [
+      {
+        "product_id": 22,
+        "product_name": "Metallic Drops Sticks",
+        "qty": 1
+      },
+      {
+        "product_id": 9,
+        "product_name": "Almond Shards Enrobed Bites",
+        "qty": 2
+      },
+      {
+        "product_id": 27,
+        "product_name": "Glow-in-Dark Wax Wearables",
+        "qty": 3
+      },
+      {
+        "product_id": 15,
+        "product_name": "Swirled Rock Spheres",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 72046182,
+    "customer_id": 18,
+    "timestamp": "2024-02-07T04:31:17.289719",
+    "items": [
+      {
+        "product_id": 20,
+        "product_name": "Metallic Mints Spheres",
+        "qty": 4
+      },
+      {
+        "product_id": 7,
+        "product_name": "Almond Shards Squares Slabs",
+        "qty": 3
+      },
+      {
+        "product_id": 1,
+        "product_name": "Almond Shards Chews Bites",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 94066534,
+    "customer_id": 26,
+    "timestamp": "2024-02-07T17:08:24.830782",
+    "items": [
+      {
+        "product_id": 21,
+        "product_name": "Swirled Drops Sticks",
+        "qty": 1
+      },
+      {
+        "product_id": 11,
+        "product_name": "Almond Shards Enrobed Slabs",
+        "qty": 2
+      },
+      {
+        "product_id": 9,
+        "product_name": "Almond Shards Enrobed Bites",
+        "qty": 3
+      },
+      {
+        "product_id": 30,
+        "product_name": "Edible Glitter Pop Rocks Popping Rocks",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 82123808,
+    "customer_id": 20,
+    "timestamp": "2024-02-07T20:12:36.176582",
+    "items": [
+      {
+        "product_id": 34,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": 4
+      },
+      {
+        "product_id": 14,
+        "product_name": "Metallic Rock Sticks",
+        "qty": 5
+      },
+      {
+        "product_id": 26,
+        "product_name": "Edible Glitter Wax Popping Rocks",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 77358401,
+    "customer_id": 15,
+    "timestamp": "2024-02-07T16:42:49.334080",
+    "items": [
+      {
+        "product_id": 27,
+        "product_name": "Glow-in-Dark Wax Wearables",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 96856154,
+    "customer_id": 18,
+    "timestamp": "2024-02-07T02:26:46.118921",
+    "items": [
+      {
+        "product_id": 27,
+        "product_name": "Glow-in-Dark Wax Wearables",
+        "qty": 5
+      },
+      {
+        "product_id": 24,
+        "product_name": "Metallic Drops Spheres",
+        "qty": 5
+      },
+      {
+        "product_id": 28,
+        "product_name": "Edible Glitter Wax Wearables",
+        "qty": 1
+      },
+      {
+        "product_id": 6,
+        "product_name": "Sea Salt Crackle Squares Bites",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 56051981,
+    "customer_id": 14,
+    "timestamp": "2024-02-07T13:29:48.673711",
+    "items": [
+      {
+        "product_id": 22,
+        "product_name": "Metallic Drops Sticks",
+        "qty": 4
+      },
+      {
+        "product_id": 21,
+        "product_name": "Swirled Drops Sticks",
+        "qty": 4
+      },
+      {
+        "product_id": 24,
+        "product_name": "Metallic Drops Spheres",
+        "qty": 4
+      },
+      {
+        "product_id": 8,
+        "product_name": "Sea Salt Crackle Squares Slabs",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 77417890,
+    "customer_id": 3,
+    "timestamp": "2024-02-07T03:35:56.036625",
+    "items": [
+      {
+        "product_id": 13,
+        "product_name": "Swirled Rock Sticks",
+        "qty": 5
+      },
+      {
+        "product_id": 5,
+        "product_name": "Almond Shards Squares Bites",
+        "qty": 3
+      },
+      {
+        "product_id": 16,
+        "product_name": "Metallic Rock Spheres",
+        "qty": 5
+      },
+      {
+        "product_id": 15,
+        "product_name": "Swirled Rock Spheres",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 69837974,
+    "customer_id": 24,
+    "timestamp": "2024-02-07T12:07:11.210740",
+    "items": [
+      {
+        "product_id": 5,
+        "product_name": "Almond Shards Squares Bites",
+        "qty": 5
+      },
+      {
+        "product_id": 7,
+        "product_name": "Almond Shards Squares Slabs",
+        "qty": 2
+      },
+      {
+        "product_id": 12,
+        "product_name": "Sea Salt Crackle Enrobed Slabs",
+        "qty": 2
+      },
+      {
+        "product_id": 24,
+        "product_name": "Metallic Drops Spheres",
+        "qty": 5
+      },
+      {
+        "product_id": 2,
+        "product_name": "Sea Salt Crackle Chews Bites",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 56418917,
+    "customer_id": 11,
+    "timestamp": "2024-02-07T02:53:37.627383",
+    "items": [
+      {
+        "product_id": 29,
+        "product_name": "Glow-in-Dark Pop Rocks Popping Rocks",
+        "qty": 1
+      },
+      {
+        "product_id": 12,
+        "product_name": "Sea Salt Crackle Enrobed Slabs",
+        "qty": 5
+      },
+      {
+        "product_id": 8,
+        "product_name": "Sea Salt Crackle Squares Slabs",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 11182004,
+    "customer_id": 4,
+    "timestamp": "2024-02-07T02:22:21.663276",
+    "items": [
+      {
+        "product_id": 14,
+        "product_name": "Metallic Rock Sticks",
+        "qty": 5
+      },
+      {
+        "product_id": 5,
+        "product_name": "Almond Shards Squares Bites",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 44385306,
+    "customer_id": 4,
+    "timestamp": "2024-02-07T08:44:26.991462",
+    "items": [
+      {
+        "product_id": 19,
+        "product_name": "Swirled Mints Spheres",
+        "qty": 1
+      },
+      {
+        "product_id": 6,
+        "product_name": "Sea Salt Crackle Squares Bites",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 29383592,
+    "customer_id": 26,
+    "timestamp": "2024-02-07T18:59:16.984901",
+    "items": [
+      {
+        "product_id": 32,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 74562484,
+    "customer_id": 10,
+    "timestamp": "2024-02-07T20:36:19.110211",
+    "items": [
+      {
+        "product_id": 4,
+        "product_name": "Sea Salt Crackle Chews Slabs",
+        "qty": 5
+      },
+      {
+        "product_id": 3,
+        "product_name": "Almond Shards Chews Slabs",
+        "qty": 4
+      },
+      {
+        "product_id": 19,
+        "product_name": "Swirled Mints Spheres",
+        "qty": 4
+      },
+      {
+        "product_id": 8,
+        "product_name": "Sea Salt Crackle Squares Slabs",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 81959897,
+    "customer_id": 12,
+    "timestamp": "2024-02-07T08:37:22.846587",
+    "items": [
+      {
+        "product_id": 36,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": 3
+      },
+      {
+        "product_id": 32,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": 2
+      },
+      {
+        "product_id": 16,
+        "product_name": "Metallic Rock Spheres",
+        "qty": 3
+      },
+      {
+        "product_id": 6,
+        "product_name": "Sea Salt Crackle Squares Bites",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 11808551,
+    "customer_id": 14,
+    "timestamp": "2024-02-07T06:56:41.526289",
+    "items": [
+      {
+        "product_id": 28,
+        "product_name": "Edible Glitter Wax Wearables",
+        "qty": null
+      },
+      {
+        "product_id": 8,
+        "product_name": "Sea Salt Crackle Squares Slabs",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 26898377,
+    "customer_id": 26,
+    "timestamp": "2024-02-07T02:01:48.674370",
+    "items": [
+      {
+        "product_id": 20,
+        "product_name": "Metallic Mints Spheres",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 55119523,
+    "customer_id": 20,
+    "timestamp": "2024-02-07T16:18:17.105633",
+    "items": [
+      {
+        "product_id": 12,
+        "product_name": "Sea Salt Crackle Enrobed Slabs",
+        "qty": 4
+      },
+      {
+        "product_id": 9,
+        "product_name": "Almond Shards Enrobed Bites",
+        "qty": 1
+      },
+      {
+        "product_id": 32,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": null
+      },
+      {
+        "product_id": 30,
+        "product_name": "Edible Glitter Pop Rocks Popping Rocks",
+        "qty": 5
+      },
+      {
+        "product_id": 4,
+        "product_name": "Sea Salt Crackle Chews Slabs",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 84883257,
+    "customer_id": 24,
+    "timestamp": "2024-02-07T04:18:29.392063",
+    "items": [
+      {
+        "product_id": 23,
+        "product_name": "Swirled Drops Spheres",
+        "qty": 4
+      },
+      {
+        "product_id": 1,
+        "product_name": "Almond Shards Chews Bites",
+        "qty": 4
+      },
+      {
+        "product_id": 9,
+        "product_name": "Almond Shards Enrobed Bites",
+        "qty": 5
+      },
+      {
+        "product_id": 8,
+        "product_name": "Sea Salt Crackle Squares Slabs",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 73521508,
+    "customer_id": 11,
+    "timestamp": "2024-02-07T06:30:54.902372",
+    "items": [
+      {
+        "product_id": 3,
+        "product_name": "Almond Shards Chews Slabs",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 37874334,
+    "customer_id": 18,
+    "timestamp": "2024-02-07T11:11:01.350487",
+    "items": [
+      {
+        "product_id": 30,
+        "product_name": "Edible Glitter Pop Rocks Popping Rocks",
+        "qty": 2
+      },
+      {
+        "product_id": 31,
+        "product_name": "Glow-in-Dark Pop Rocks Wearables",
+        "qty": 4
+      },
+      {
+        "product_id": 29,
+        "product_name": "Glow-in-Dark Pop Rocks Popping Rocks",
+        "qty": 1
+      },
+      {
+        "product_id": 4,
+        "product_name": "Sea Salt Crackle Chews Slabs",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 41941902,
+    "customer_id": 30,
+    "timestamp": "2024-02-07T09:20:46.786900",
+    "items": [
+      {
+        "product_id": 4,
+        "product_name": "Sea Salt Crackle Chews Slabs",
+        "qty": 1
+      },
+      {
+        "product_id": 2,
+        "product_name": "Sea Salt Crackle Chews Bites",
+        "qty": 1
+      },
+      {
+        "product_id": 23,
+        "product_name": "Swirled Drops Spheres",
+        "qty": 5
+      },
+      {
+        "product_id": 9,
+        "product_name": "Almond Shards Enrobed Bites",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 33082485,
+    "customer_id": 1,
+    "timestamp": "2024-02-07T01:07:37.713533",
+    "items": [
+      {
+        "product_id": 16,
+        "product_name": "Metallic Rock Spheres",
+        "qty": 1
+      },
+      {
+        "product_id": 18,
+        "product_name": "Metallic Mints Sticks",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 87251156,
+    "customer_id": 22,
+    "timestamp": "2024-02-07T17:54:54.089522",
+    "items": [
+      {
+        "product_id": 33,
+        "product_name": "Glow-in-Dark Slime Popping Rocks",
+        "qty": 4
+      },
+      {
+        "product_id": 4,
+        "product_name": "Sea Salt Crackle Chews Slabs",
+        "qty": 5
+      },
+      {
+        "product_id": 2,
+        "product_name": "Sea Salt Crackle Chews Bites",
+        "qty": 5
+      },
+      {
+        "product_id": 10,
+        "product_name": "Sea Salt Crackle Enrobed Bites",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 58835965,
+    "customer_id": 7,
+    "timestamp": "2024-02-07T03:00:11.298445",
+    "items": [
+      {
+        "product_id": 33,
+        "product_name": "Glow-in-Dark Slime Popping Rocks",
+        "qty": 3
+      },
+      {
+        "product_id": 35,
+        "product_name": "Glow-in-Dark Slime Wearables",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 80145056,
+    "customer_id": 11,
+    "timestamp": "2024-02-07T23:04:31.701179",
+    "items": [
+      {
+        "product_id": 1,
+        "product_name": "Almond Shards Chews Bites",
+        "qty": 1
+      }
+    ]
+  }
+]

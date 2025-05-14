@@ -1,0 +1,37 @@
+product_id,product_name,product_category,product_subcategory,product_shape,sales_price,cost_to_make,stock
+1,Almond Shards Chews Bites,Toffee/Caramel,Chews,Bites,3.91,2.04,3350
+2,Sea Salt Crackle Chews Bites,Toffee/Caramel,Chews,Bites,9.75,4.88,2025
+3,Almond Shards Chews Slabs,Toffee/Caramel,Chews,Slabs,8.99,5.45,4600
+4,Sea Salt Crackle Chews Slabs,Toffee/Caramel,Chews,Slabs,2.16,0.88,2590
+5,Almond Shards Squares Bites,Toffee/Caramel,Squares,Bites,1.71,0.89,3195
+6,Sea Salt Crackle Squares Bites,Toffee/Caramel,Squares,Bites,7.51,4.91,3804
+7,Almond Shards Squares Slabs,Toffee/Caramel,Squares,Slabs,9.8,5.74,4572
+8,Sea Salt Crackle Squares Slabs,Toffee/Caramel,Squares,Slabs,6.44,4.09,4518
+9,Almond Shards Enrobed Bites,Toffee/Caramel,Enrobed,Bites,2.96,1.55,2534
+10,Sea Salt Crackle Enrobed Bites,Toffee/Caramel,Enrobed,Bites,2.22,1.25,3980
+11,Almond Shards Enrobed Slabs,Toffee/Caramel,Enrobed,Slabs,0.63,0.32,3263
+12,Sea Salt Crackle Enrobed Slabs,Toffee/Caramel,Enrobed,Slabs,9.99,5.26,2441
+13,Swirled Rock Sticks,Hard Candies,Rock,Sticks,6.36,2.6,3997
+14,Metallic Rock Sticks,Hard Candies,Rock,Sticks,3.05,2.04,2798
+15,Swirled Rock Spheres,Hard Candies,Rock,Spheres,1.78,0.92,2418
+16,Metallic Rock Spheres,Hard Candies,Rock,Spheres,9.41,4.63,4001
+17,Swirled Mints Sticks,Hard Candies,Mints,Sticks,6.47,3.38,3510
+18,Metallic Mints Sticks,Hard Candies,Mints,Sticks,7.5,4.62,2646
+19,Swirled Mints Spheres,Hard Candies,Mints,Spheres,8.44,5.81,4061
+20,Metallic Mints Spheres,Hard Candies,Mints,Spheres,4.92,2.63,2446
+21,Swirled Drops Sticks,Hard Candies,Drops,Sticks,7.25,4.65,2730
+22,Metallic Drops Sticks,Hard Candies,Drops,Sticks,1.67,0.68,3629
+23,Swirled Drops Spheres,Hard Candies,Drops,Spheres,2.76,1.28,4327
+24,Metallic Drops Spheres,Hard Candies,Drops,Spheres,4.81,2.39,2318
+25,Glow-in-Dark Wax Popping Rocks,Novelty Candy,Wax,Popping Rocks,1.89,1.26,2624
+26,Edible Glitter Wax Popping Rocks,Novelty Candy,Wax,Popping Rocks,6.12,2.61,4451
+27,Glow-in-Dark Wax Wearables,Novelty Candy,Wax,Wearables,6.64,2.94,2441
+28,Edible Glitter Wax Wearables,Novelty Candy,Wax,Wearables,1.72,0.94,2308
+29,Glow-in-Dark Pop Rocks Popping Rocks,Novelty Candy,Pop Rocks,Popping Rocks,4.54,2.41,3785
+30,Edible Glitter Pop Rocks Popping Rocks,Novelty Candy,Pop Rocks,Popping Rocks,4.93,3.35,4370
+31,Glow-in-Dark Pop Rocks Wearables,Novelty Candy,Pop Rocks,Wearables,4.12,2.79,4175
+32,Edible Glitter Pop Rocks Wearables,Novelty Candy,Pop Rocks,Wearables,7.95,4.98,2550
+33,Glow-in-Dark Slime Popping Rocks,Novelty Candy,Slime,Popping Rocks,8.73,5.22,3996
+34,Edible Glitter Slime Popping Rocks,Novelty Candy,Slime,Popping Rocks,2.4,1.05,4625
+35,Glow-in-Dark Slime Wearables,Novelty Candy,Slime,Wearables,5.97,2.46,3998
+36,Edible Glitter Slime Wearables,Novelty Candy,Slime,Wearables,3.77,2.01,3318

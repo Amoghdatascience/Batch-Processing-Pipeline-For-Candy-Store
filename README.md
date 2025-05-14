@@ -39,10 +39,6 @@ This project is a batch processing pipeline for a fictional candy store from RIT
 3. All required files are generated.
 4. Forecasting metrics printed correctly
 
-### Contributions And Contact
-This project was done by Amogh Naik as a part of coursework under the guidance of Prof. Zimeng Lyu. Feel free to pull the Repo to contribute
-
-
 
 ### Checklist
 - [x] Code formatted with black
